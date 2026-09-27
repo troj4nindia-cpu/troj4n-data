@@ -1,85 +1,50 @@
 {
  "version": 1,
- "generated": "2026-09-28 04:51:43",
- "core": [
-  {
-   "name": "agent.js",
-   "size": 16698
-  },
-  {
-   "name": "da_mtk_real.bin",
-   "size": 12084
-  },
-  {
-   "name": "Emir.png",
-   "size": 49520
-  },
-  {
-   "name": "EXY_SET.bin",
-   "size": 10345
-  },
-  {
-   "name": "models_cache.json",
-   "size": 1112274
-  },
-  {
-   "name": "MTK_EMI.bin",
-   "size": 60420
-  },
-  {
-   "name": "note_en.txt",
-   "size": 182
-  },
-  {
-   "name": "mock/cert.pem",
-   "size": 1188
-  },
-  {
-   "name": "mock/key.pem",
-   "size": 1708
-  },
-  {
-   "name": "mock/responses/auth.bin",
-   "size": 1195
-  },
-  {
-   "name": "mock/responses/bypass_license.bin",
-   "size": 1273
-  },
-  {
-   "name": "mock/responses/hello_stub.zip",
-   "size": 150
-  },
-  {
-   "name": "mock/responses/licenses.bin",
-   "size": 1643
-  },
-  {
-   "name": "mock/responses/licenses_meta.bin",
-   "size": 1277
-  },
-  {
-   "name": "mock/responses/note.bin",
-   "size": 182
-  },
-  {
-   "name": "mock/responses/update.bin",
-   "size": 205345
-  },
-  {
-   "name": "mock/responses/users.bin",
-   "size": 119
-  },
-  {
-   "name": "files_index.json",
-   "size": 181737
-  },
-  {
-   "name": "real_files_index.json",
-   "size": 33455
-  }
- ],
+ "generated": "2026-09-28 05:10:19",
+ "core": [],
  "chunks": {
+  "agent.js": {
+   "id": "af675ac45249dfd7",
+   "size": 16698,
+   "sha256": "af675ac45249dfd75659b00ad24f7f894419e4d448a9550438879f73231d239a",
+   "md5": "b53fe1ba58d9fbad094456a0040e32a6"
+  },
+  "da_mtk_real.bin": {
+   "id": "869eee53df30d64e",
+   "size": 12084,
+   "sha256": "869eee53df30d64ef73f482822e5ff36e8c304e0d36a1856b015dbdc5a1f6e69",
+   "md5": "187c8669075c79d8f26b4bd1f80129f0"
+  },
+  "Emir.png": {
+   "id": "81c072bd5d36efa5",
+   "size": 49520,
+   "sha256": "81c072bd5d36efa572f40edf1d4b991fd19289a7376af91e8cfd0e78a5957b0d",
+   "md5": "32f71e4c3e1331eb536495f9bcb72dec"
+  },
+  "EXY_SET.bin": {
+   "id": "da09616ae13e2d8a",
+   "size": 10345,
+   "sha256": "da09616ae13e2d8a02f54f9d61572fd3448bd46851f1139208347826d9c4ecfd",
+   "md5": "a3c716b2e83e4a3718574a8a086a50e7"
+  },
+  "models_cache.json": {
+   "id": "1651fa4e80a1df80",
+   "size": 1112274,
+   "sha256": "1651fa4e80a1df801f61bc1573afd5b14e67d6f4e46517dd3a1a9d364623e3fa",
+   "md5": "108efbb72d4413d2e393b68f975d1c06"
+  },
+  "MTK_EMI.bin": {
+   "id": "081ee44e30818bbe",
+   "size": 60420,
+   "sha256": "081ee44e30818bbe326d6f3d9a265dd8d337e03e4acf5d1b62005fa071f83c24",
+   "md5": "1e0eeb17741f4568630b98a2d577ab01"
+  },
+  "note_en.txt": {
+   "id": "42b601920be832a5",
+   "size": 182,
+   "sha256": "42b601920be832a575bc73005cb40bf2e64d841f47f2c5ceccf69a34d44e015c",
+   "md5": "897e61b9de4f9d6e2d5bbb052324e128"
+  },
   "da_files/Huawei_Honor_MT6765_DA.mtk": {
    "id": "77e16b9e4fdf97b8",
    "size": 347899,
@@ -1033,6 +998,66 @@
    "size": 1209044,
    "sha256": "b37df080ce20e073b295717bf379e0ae58ff44bfe8f0e9a52b641b087ba33969",
    "md5": "b15549961a6864e8bed59f8ae65f406b"
+  },
+  "mock/cert.pem": {
+   "id": "f1d340aab038fa64",
+   "size": 1188,
+   "sha256": "f1d340aab038fa64d022d5a2182ca5174e1416f36fa9d93bf75673f669a056dd",
+   "md5": "7bfb3d1ab2eb2d6def3bee256762b489"
+  },
+  "mock/key.pem": {
+   "id": "d5dc38719dce16f3",
+   "size": 1708,
+   "sha256": "d5dc38719dce16f37a348f422607c9385fdce0c2c8aa4d3ce86030cf611e5e03",
+   "md5": "1dc764b1a2cc21edd92f1afd18375783"
+  },
+  "mock/responses/auth.bin": {
+   "id": "1dc72fb34602ec6d",
+   "size": 1195,
+   "sha256": "1dc72fb34602ec6d117fdd117f99f7ac1fa2abacf56cddde6d8fcc0cf26d7131",
+   "md5": "a2e90ffa01bad0c37300d18ca6619a80"
+  },
+  "mock/responses/bypass_license.bin": {
+   "id": "091154e47df65b21",
+   "size": 1273,
+   "sha256": "091154e47df65b2100baa0b03a92d8602aca71bb01617df9e511e92c088e68b3",
+   "md5": "f765bfecfb93dffdc46a45a581c0a513"
+  },
+  "mock/responses/hello_stub.zip": {
+   "id": "2abd7d9a14eb90eb",
+   "size": 150,
+   "sha256": "2abd7d9a14eb90eb0992462e981efe7c0cf6094a1fdbe789c7aa77c519827454",
+   "md5": "0ea4c860446dc0d3c1f877dd9c37c4a7"
+  },
+  "mock/responses/licenses.bin": {
+   "id": "392ed94abcd93438",
+   "size": 1643,
+   "sha256": "392ed94abcd9343840e20342c38e8b8899e526213323d7720fe854f6eeef954b",
+   "md5": "f0e138d81f1268a0a68aecd7cc81be46"
+  },
+  "mock/responses/licenses_meta.bin": {
+   "id": "7d0657791bac73fe",
+   "size": 1277,
+   "sha256": "7d0657791bac73fe7fddd606dea9d84e87a950f07fe93da8fc8be3a685da346f",
+   "md5": "472e15f120ef1bfddab206964dd6ef67"
+  },
+  "mock/responses/note.bin": {
+   "id": "42b601920be832a5",
+   "size": 182,
+   "sha256": "42b601920be832a575bc73005cb40bf2e64d841f47f2c5ceccf69a34d44e015c",
+   "md5": "897e61b9de4f9d6e2d5bbb052324e128"
+  },
+  "mock/responses/update.bin": {
+   "id": "7d6de6034f3658c7",
+   "size": 205345,
+   "sha256": "7d6de6034f3658c7100134a600411759dec29b970edfb14a48a712d4b992667f",
+   "md5": "78b5376477ce714b4013cf9ddecc5111"
+  },
+  "mock/responses/users.bin": {
+   "id": "59258346a409554b",
+   "size": 119,
+   "sha256": "59258346a409554bcf5c0c604b8077f474354f1f19671e4b2f789aac9f05ddc4",
+   "md5": "8003ec0f8110da3987ee7b2aad9762e7"
   },
   "uploads/11_Lite_5G_NE_778_YLHHA4D3.umi": {
    "id": "c4a68a0ffd14fcc4",
@@ -5852,6 +5877,18 @@
    "sha256": "321a538385b2958ac520ddf9c9f24bdb8a0cd3a7c85b6f14fd07e6dbde90d5ad",
    "md5": "561488b5b7ada57ff3a131a1daecba33"
   },
+  "files_index.json": {
+   "id": "a4c4154e31ff4d45",
+   "size": 181737,
+   "sha256": "a4c4154e31ff4d452de2f40630fc862d93258463a3aacc795b21e114c7322468",
+   "md5": "0adb526375472584fa0d9ee5839e875e"
+  },
+  "real_files_index.json": {
+   "id": "2dd53793d9a76b58",
+   "size": 33455,
+   "sha256": "2dd53793d9a76b582682a68bb8ea8d70f04b87e687290247a4c647d8a9daed6f",
+   "md5": "d9e6645584234179fbff337dc4f00160"
+  },
   "uploads/A512W_P4PLNKSW.sprd": {
    "id": "2057b1ca377858c9",
    "size": 400754,
@@ -5919,6 +5956,6 @@
    "md5": "de7e7526938754b45e8d79a2e5d609a9"
   }
  },
- "total": 1922387713,
- "count": 973
+ "total": 1924078508,
+ "count": 992
 }
