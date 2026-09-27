@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-28 04:33:10",
+ "generated": "2026-09-28 04:51:43",
  "core": [
   {
    "name": "agent.js",
@@ -72,7 +72,7 @@
   },
   {
    "name": "files_index.json",
-   "size": 166318
+   "size": 181737
   },
   {
    "name": "real_files_index.json",
@@ -5851,8 +5851,74 @@
    "size": 187011,
    "sha256": "321a538385b2958ac520ddf9c9f24bdb8a0cd3a7c85b6f14fd07e6dbde90d5ad",
    "md5": "561488b5b7ada57ff3a131a1daecba33"
+  },
+  "uploads/A512W_P4PLNKSW.sprd": {
+   "id": "2057b1ca377858c9",
+   "size": 400754,
+   "sha256": "2057b1ca377858c9dd8be880fd5c51d2f80e6ae6a0150a28a1ca4e99b43aee70",
+   "md5": "13b6932c1d6afab9bcec41142b8c620f"
+  },
+  "uploads/A661L_FA9GHFFY.sprd": {
+   "id": "58f90fc28b674add",
+   "size": 402996,
+   "sha256": "58f90fc28b674add00befaf955669d47dafe84e16023aada50ba035aad97195d",
+   "md5": "02222332d51c6d6e2d0f072c826b27b5"
+  },
+  "uploads/AI_Nova_5G_M8E3K5QA.sprd": {
+   "id": "6d630bb137db6798",
+   "size": 600487,
+   "sha256": "6d630bb137db6798aeed2a5a61a3f648b9bf86188838e9f6b8658df83d836529",
+   "md5": "32fbc55c3f2c97e88204cbfc1359a2d3"
+  },
+  "uploads/AQM-L21A__hw__spcseas__AQM-L21A_10.1.0.128C636E2R4P1.oeminfo": {
+   "id": "acf330c07d36f29e",
+   "size": 418723,
+   "sha256": "acf330c07d36f29e06d2d933e39423ad4c8b16f76dbf49b5e59f2064bd4045d8",
+   "md5": "3c020a36b13588f692deade72def7cb5"
+  },
+  "uploads/ARE-AL00__all__cn__System_8.2.0.03603DU.oeminfo": {
+   "id": "4f0d0811171a36c4",
+   "size": 526114,
+   "sha256": "4f0d0811171a36c4c503ead4470252fa6d963f9e6e0051c918f6ebf8e3e2a6ab",
+   "md5": "f3bd470bf43fc049cb5be15ba4d03b89"
+  },
+  "uploads/ARE-L22HW__hw__spcseas__ARS-L22_8.2.0.158C636.oeminfo": {
+   "id": "ce62e014e1b565ab",
+   "size": 538758,
+   "sha256": "ce62e014e1b565ab9990ddc6430b5544652d0cf683ad6ee1fe20a5daa2add987",
+   "md5": "4fce7f20a5eb6b8122b794031fb1028f"
+  },
+  "uploads/ARS-L22__hw__spcseas__ARS-L22_8.2.0.158C636.oeminfo": {
+   "id": "ce62e014e1b565ab",
+   "size": 538758,
+   "sha256": "ce62e014e1b565ab9990ddc6430b5544652d0cf683ad6ee1fe20a5daa2add987",
+   "md5": "4fce7f20a5eb6b8122b794031fb1028f"
+  },
+  "uploads/ITEL_A41_PLUS_2VZSPV5R.sprd": {
+   "id": "794f749d090fbec5",
+   "size": 248319,
+   "sha256": "794f749d090fbec529e6600155905de5fa2c8b1550f34f3e0805ab33191e5172",
+   "md5": "f55b5600eb8f68f63e50b248f4000ad6"
+  },
+  "uploads/Itel_A24_92JD6HNB.sprd": {
+   "id": "f36b095ebdd14c65",
+   "size": 338153,
+   "sha256": "f36b095ebdd14c6597c47c462aa40a176d12a3898cb243243f2eb9300f1877d7",
+   "md5": "ade57a87e3f0b50be84b598085f060de"
+  },
+  "uploads/LENOVO_A1000_DGQYD58P.sprd": {
+   "id": "1f13c04894c8d9b5",
+   "size": 138489,
+   "sha256": "1f13c04894c8d9b51fcb3282e0333e2fea2d87161a2ade0cb2048780ae6153b7",
+   "md5": "e1f2cdc35d77a24257037969e54f3834"
+  },
+  "uploads/ZTE_Blade_A7S_2020_CURQEB5Q.sprd": {
+   "id": "4b34eb28fce626f1",
+   "size": 351605,
+   "sha256": "4b34eb28fce626f18e269e4b53b198ffc602b5403f1bc58271dc5e20d3f4caca",
+   "md5": "de7e7526938754b45e8d79a2e5d609a9"
   }
  },
- "total": 1917884557,
- "count": 962
+ "total": 1922387713,
+ "count": 973
 }
