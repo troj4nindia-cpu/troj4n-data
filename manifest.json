@@ -1,50 +1,89 @@
 {
  "version": 1,
- "generated": "2026-09-29 00:30:22",
- "core": [],
+ "generated": "2026-09-29 04:31:52",
+ "core": [
+  {
+   "name": "agent.js",
+   "size": 16698
+  },
+  {
+   "name": "da_mtk_real.bin",
+   "size": 12084
+  },
+  {
+   "name": "Emir.png",
+   "size": 49520
+  },
+  {
+   "name": "EXY_SET.bin",
+   "size": 10345
+  },
+  {
+   "name": "models_cache.json",
+   "size": 1112274
+  },
+  {
+   "name": "MTK_EMI.bin",
+   "size": 60420
+  },
+  {
+   "name": "note_en.txt",
+   "size": 182
+  },
+  {
+   "name": "mock/cert.pem",
+   "size": 1188
+  },
+  {
+   "name": "mock/key.pem",
+   "size": 1708
+  },
+  {
+   "name": "mock/responses/auth.bin",
+   "size": 1195
+  },
+  {
+   "name": "mock/responses/bypass_license.bin",
+   "size": 1273
+  },
+  {
+   "name": "mock/responses/hello_stub.zip",
+   "size": 150
+  },
+  {
+   "name": "mock/responses/licenses.bin",
+   "size": 1643
+  },
+  {
+   "name": "mock/responses/licenses_meta.bin",
+   "size": 1277
+  },
+  {
+   "name": "mock/responses/note.bin",
+   "size": 182
+  },
+  {
+   "name": "mock/responses/update.bin",
+   "size": 205345
+  },
+  {
+   "name": "mock/responses/users.bin",
+   "size": 119
+  },
+  {
+   "name": "files_index.json",
+   "size": 226624
+  },
+  {
+   "name": "real_files_index.json",
+   "size": 254175
+  },
+  {
+   "name": "mock/responses/files_index.bin",
+   "size": 226624
+  }
+ ],
  "chunks": {
-  "agent.js": {
-   "id": "af675ac45249dfd7",
-   "size": 16698,
-   "sha256": "af675ac45249dfd75659b00ad24f7f894419e4d448a9550438879f73231d239a",
-   "md5": "b53fe1ba58d9fbad094456a0040e32a6"
-  },
-  "da_mtk_real.bin": {
-   "id": "869eee53df30d64e",
-   "size": 12084,
-   "sha256": "869eee53df30d64ef73f482822e5ff36e8c304e0d36a1856b015dbdc5a1f6e69",
-   "md5": "187c8669075c79d8f26b4bd1f80129f0"
-  },
-  "Emir.png": {
-   "id": "81c072bd5d36efa5",
-   "size": 49520,
-   "sha256": "81c072bd5d36efa572f40edf1d4b991fd19289a7376af91e8cfd0e78a5957b0d",
-   "md5": "32f71e4c3e1331eb536495f9bcb72dec"
-  },
-  "EXY_SET.bin": {
-   "id": "da09616ae13e2d8a",
-   "size": 10345,
-   "sha256": "da09616ae13e2d8a02f54f9d61572fd3448bd46851f1139208347826d9c4ecfd",
-   "md5": "a3c716b2e83e4a3718574a8a086a50e7"
-  },
-  "models_cache.json": {
-   "id": "1651fa4e80a1df80",
-   "size": 1112274,
-   "sha256": "1651fa4e80a1df801f61bc1573afd5b14e67d6f4e46517dd3a1a9d364623e3fa",
-   "md5": "108efbb72d4413d2e393b68f975d1c06"
-  },
-  "MTK_EMI.bin": {
-   "id": "081ee44e30818bbe",
-   "size": 60420,
-   "sha256": "081ee44e30818bbe326d6f3d9a265dd8d337e03e4acf5d1b62005fa071f83c24",
-   "md5": "1e0eeb17741f4568630b98a2d577ab01"
-  },
-  "note_en.txt": {
-   "id": "42b601920be832a5",
-   "size": 182,
-   "sha256": "42b601920be832a575bc73005cb40bf2e64d841f47f2c5ceccf69a34d44e015c",
-   "md5": "897e61b9de4f9d6e2d5bbb052324e128"
-  },
   "da_files/Huawei_Honor_MT6765_DA.mtk": {
    "id": "77e16b9e4fdf97b8",
    "size": 347899,
@@ -998,66 +1037,6 @@
    "size": 1209044,
    "sha256": "b37df080ce20e073b295717bf379e0ae58ff44bfe8f0e9a52b641b087ba33969",
    "md5": "b15549961a6864e8bed59f8ae65f406b"
-  },
-  "mock/cert.pem": {
-   "id": "f1d340aab038fa64",
-   "size": 1188,
-   "sha256": "f1d340aab038fa64d022d5a2182ca5174e1416f36fa9d93bf75673f669a056dd",
-   "md5": "7bfb3d1ab2eb2d6def3bee256762b489"
-  },
-  "mock/key.pem": {
-   "id": "d5dc38719dce16f3",
-   "size": 1708,
-   "sha256": "d5dc38719dce16f37a348f422607c9385fdce0c2c8aa4d3ce86030cf611e5e03",
-   "md5": "1dc764b1a2cc21edd92f1afd18375783"
-  },
-  "mock/responses/auth.bin": {
-   "id": "1dc72fb34602ec6d",
-   "size": 1195,
-   "sha256": "1dc72fb34602ec6d117fdd117f99f7ac1fa2abacf56cddde6d8fcc0cf26d7131",
-   "md5": "a2e90ffa01bad0c37300d18ca6619a80"
-  },
-  "mock/responses/bypass_license.bin": {
-   "id": "091154e47df65b21",
-   "size": 1273,
-   "sha256": "091154e47df65b2100baa0b03a92d8602aca71bb01617df9e511e92c088e68b3",
-   "md5": "f765bfecfb93dffdc46a45a581c0a513"
-  },
-  "mock/responses/hello_stub.zip": {
-   "id": "2abd7d9a14eb90eb",
-   "size": 150,
-   "sha256": "2abd7d9a14eb90eb0992462e981efe7c0cf6094a1fdbe789c7aa77c519827454",
-   "md5": "0ea4c860446dc0d3c1f877dd9c37c4a7"
-  },
-  "mock/responses/licenses.bin": {
-   "id": "392ed94abcd93438",
-   "size": 1643,
-   "sha256": "392ed94abcd9343840e20342c38e8b8899e526213323d7720fe854f6eeef954b",
-   "md5": "f0e138d81f1268a0a68aecd7cc81be46"
-  },
-  "mock/responses/licenses_meta.bin": {
-   "id": "7d0657791bac73fe",
-   "size": 1277,
-   "sha256": "7d0657791bac73fe7fddd606dea9d84e87a950f07fe93da8fc8be3a685da346f",
-   "md5": "472e15f120ef1bfddab206964dd6ef67"
-  },
-  "mock/responses/note.bin": {
-   "id": "42b601920be832a5",
-   "size": 182,
-   "sha256": "42b601920be832a575bc73005cb40bf2e64d841f47f2c5ceccf69a34d44e015c",
-   "md5": "897e61b9de4f9d6e2d5bbb052324e128"
-  },
-  "mock/responses/update.bin": {
-   "id": "7d6de6034f3658c7",
-   "size": 205345,
-   "sha256": "7d6de6034f3658c7100134a600411759dec29b970edfb14a48a712d4b992667f",
-   "md5": "78b5376477ce714b4013cf9ddecc5111"
-  },
-  "mock/responses/users.bin": {
-   "id": "59258346a409554b",
-   "size": 119,
-   "sha256": "59258346a409554bcf5c0c604b8077f474354f1f19671e4b2f789aac9f05ddc4",
-   "md5": "8003ec0f8110da3987ee7b2aad9762e7"
   },
   "uploads/11_Lite_5G_NE_778_YLHHA4D3.umi": {
    "id": "c4a68a0ffd14fcc4",
@@ -5877,18 +5856,6 @@
    "sha256": "321a538385b2958ac520ddf9c9f24bdb8a0cd3a7c85b6f14fd07e6dbde90d5ad",
    "md5": "561488b5b7ada57ff3a131a1daecba33"
   },
-  "files_index.json": {
-   "id": "7bb4ed030696e187",
-   "size": 226624,
-   "sha256": "7bb4ed030696e18769ed2309db1f055cfa40969bb47909ac75575b6cbe2b4e38",
-   "md5": "e9fd1121f7510bc200f1532d2a57bf51"
-  },
-  "real_files_index.json": {
-   "id": "2429cace7b418436",
-   "size": 254175,
-   "sha256": "2429cace7b418436f4c8199b4050dc043979417592e3f8daec3faa54ba7ae1b2",
-   "md5": "acec3fd56cb48e660909f9fe20d0ad16"
-  },
   "uploads/A512W_P4PLNKSW.sprd": {
    "id": "2057b1ca377858c9",
    "size": 400754,
@@ -5955,12 +5922,6 @@
    "sha256": "4b34eb28fce626f18e269e4b53b198ffc602b5403f1bc58271dc5e20d3f4caca",
    "md5": "de7e7526938754b45e8d79a2e5d609a9"
   },
-  "mock/responses/files_index.bin": {
-   "id": "7bb4ed030696e187",
-   "size": 226624,
-   "sha256": "7bb4ed030696e18769ed2309db1f055cfa40969bb47909ac75575b6cbe2b4e38",
-   "md5": "e9fd1121f7510bc200f1532d2a57bf51"
-  },
   "uploads/PD2093F_VYK4PZWD.umi": {
    "id": "9d0bba606af0ba18",
    "size": 277425,
@@ -5990,8 +5951,3152 @@
    "size": 276707,
    "sha256": "5b63b64007f733f2df6a35852f70f148d8b499c41db3ac63a88b6060d1f48e60",
    "md5": "166769414da701ec7c2db58d0c549cb9"
+  },
+  "uploads/A37F.umi": {
+   "id": "3b0b51078c1d74b1",
+   "size": 59694,
+   "sha256": "3b0b51078c1d74b100bd1666a3d290111ca591e9435a201e11d92b68db51bd6f",
+   "md5": "97d84fc3781b7b5af1c4c1cb222b7151"
+  },
+  "uploads/BQ_Aquaris_X2_Pro.umi": {
+   "id": "15711c9972581de6",
+   "size": 265975,
+   "sha256": "15711c9972581de6316955cf6f86631f5145a0e17817e48ae7017e7c30a9b73b",
+   "md5": "4bc1e9bc36af3fbe42cdef93944c6205"
+  },
+  "uploads/CPH1707.umi": {
+   "id": "ca6e97db5be90dc1",
+   "size": 252209,
+   "sha256": "ca6e97db5be90dc180d17cb5ab5c33b17853912579757bec8ed2c4205a45fa9a",
+   "md5": "4b94c54254613967f90b81073746f903"
+  },
+  "uploads/CPH1803_Guide_DGA2KQPY.umi": {
+   "id": "24f2e266383d4905",
+   "size": 238279,
+   "sha256": "24f2e266383d4905cc621327af5d08b7553bdea1c3cb1db1f449c1be672761df",
+   "md5": "af06380f571f17da82a06a5334c907ad"
+  },
+  "uploads/CPH1809_Guide_7GRPCCZN.umi": {
+   "id": "b6ffaf8c5556f932",
+   "size": 238289,
+   "sha256": "b6ffaf8c5556f9323499debfc10ff7fe269a71e9963995af7cd283bd62d5adee",
+   "md5": "9b263f975914e78936601be60421a236"
+  },
+  "uploads/CPH1851_Guide_DGA2KQPY.umi": {
+   "id": "24f2e266383d4905",
+   "size": 238279,
+   "sha256": "24f2e266383d4905cc621327af5d08b7553bdea1c3cb1db1f449c1be672761df",
+   "md5": "af06380f571f17da82a06a5334c907ad"
+  },
+  "uploads/CPH1853_Guide_PCM96FKB.umi": {
+   "id": "df67a0624df6e160",
+   "size": 238289,
+   "sha256": "df67a0624df6e1600d116f33d94ce7e6f8e324acb4bd40b307902b59f053d2cb",
+   "md5": "e09c3647502a07d3a6a8d291ea8f5755"
+  },
+  "uploads/CPH1901_Guide_JMMDDWHY.umi": {
+   "id": "1c43c15b1b27e8ca",
+   "size": 238279,
+   "sha256": "1c43c15b1b27e8cae2250511c4e273fd9de971b0c11352c555deed24cf506b45",
+   "md5": "7996da62debe262d37b6f843edad2383"
+  },
+  "uploads/CPH1909_Guide_DGA2KQPY.umi": {
+   "id": "24f2e266383d4905",
+   "size": 238279,
+   "sha256": "24f2e266383d4905cc621327af5d08b7553bdea1c3cb1db1f449c1be672761df",
+   "md5": "af06380f571f17da82a06a5334c907ad"
+  },
+  "uploads/CPH2009.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/CPH2091.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/CPH2095_MTMWWSMH.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/CPH2099_MTMWWSMH.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/CPH2127_MTMWWSMH.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/CPH2199.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/CPH2219_MTMWWSMH.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/CPH2219_MTMWWSMH_g88NZMD.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/CPH2223_MTMWWSMH.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/CPH2365_MTMWWSMH.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/CPH2465_WSLFN4YC.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/China_Mobile_A3S_M653_HH1H2CJP.umi": {
+   "id": "e6280c935d133e7c",
+   "size": 195681,
+   "sha256": "e6280c935d133e7ce1806763c1b8998f76a1c7591c1fd65552fbabef76dd9a3d",
+   "md5": "58cc3eb2bf5f126d43f5ecdbf71b1404"
+  },
+  "uploads/China_Mobile_N3_M850A_YLSG6VJZ.umi": {
+   "id": "1e8883e9cac98a49",
+   "size": 222630,
+   "sha256": "1e8883e9cac98a4953256133b2c47dc33df6e3600da26680a9b1cef2071b0939",
+   "md5": "be4c8119b568492c8ad1cac75784bacb"
+  },
+  "uploads/China_Mobile_N3_M850_BWDAAPEJ.umi": {
+   "id": "e526e12138d21b57",
+   "size": 222638,
+   "sha256": "e526e12138d21b5784dece08beea27df4e7a92cf4cba99ed5b366f8ac1f64fed",
+   "md5": "de4fbee57d4ae02319495ce450c1a785"
+  },
+  "uploads/China_Mobile_N5_M762G_YXMR4J1P.umi": {
+   "id": "bfbd2503bcc3b9e0",
+   "size": 237913,
+   "sha256": "bfbd2503bcc3b9e0f6c0fec8828440c25c55433ab735f9236296eed5a9a72450",
+   "md5": "16a9cc70385da8356f1f0a0cd2a408a9"
+  },
+  "uploads/CoolPad_Fancy_Pro_E571_SH0PTZR6.umi": {
+   "id": "033fe266b074a621",
+   "size": 60221,
+   "sha256": "033fe266b074a6215b1ac0db13bc8e09f73d2626e0ba020d21193ad09356d9cb",
+   "md5": "4350da7240b437b73cc90c4dfd9040ca"
+  },
+  "uploads/CoolPad_Max_Lite_R108_GC18DSAB.umi": {
+   "id": "52826e9c94654a5d",
+   "size": 61714,
+   "sha256": "52826e9c94654a5d679cad4c71d97e30a49bef19920cbd73c70b5510c4593fbe",
+   "md5": "48ebfbe19aed6d9db0f4c3c4688bd9c0"
+  },
+  "uploads/CoolPad_Ski_Mini_E560_FXFDAJJN.umi": {
+   "id": "5220cfab4bab9b44",
+   "size": 59661,
+   "sha256": "5220cfab4bab9b44b7b5743267f1063442986b5203004f0b63e35e75cb951545",
+   "md5": "8c91f9a3ddb99ac3267da7b5efddc894"
+  },
+  "uploads/CoolPad_Sky_E501_DTLPQVVX.umi": {
+   "id": "5aa49fcedcbc18f9",
+   "size": 57248,
+   "sha256": "5aa49fcedcbc18f9ef7d40fa89cbd6333aee053e7e0921a37e2fc34f62586eb5",
+   "md5": "f4853688243069b786a2f969feafb19a"
+  },
+  "uploads/D-42A_KWWMKM9Z.umi": {
+   "id": "dd07211756f183df",
+   "size": 259514,
+   "sha256": "dd07211756f183df69d1e6eac6230a9d8abe689458358e1f6712c98b147dc08b",
+   "md5": "d925f62f1227e10300b601468f61bc8d"
+  },
+  "uploads/DIG-TL10.umi": {
+   "id": "5b0c5e8f774552e4",
+   "size": 257027,
+   "sha256": "5b0c5e8f774552e4a1015789d18a84d71e2226c36d30af19c79e16bde921e8e6",
+   "md5": "48ee48c67d9f8b7e2602caf1e6560f7b"
+  },
+  "uploads/DLI-AL10.umi": {
+   "id": "fa214791621521ae",
+   "size": 257059,
+   "sha256": "fa214791621521aecca5d81cf0c5035615640b8b79ccdacef021271b745ad55f",
+   "md5": "bcf0cd99809c9a80499fb4b993077a62"
+  },
+  "uploads/DUB-AL20__all__cn__DUB-AL20_8.2.0.192C00.oeminfo": {
+   "id": "504575a28b57368a",
+   "size": 455530,
+   "sha256": "504575a28b57368a66a24268368cd45349751ef27e088938abc95df7da345153",
+   "md5": "e2f9563327bf9a2654f6329c2fe96423"
+  },
+  "uploads/G600K_PC0DQR4N.umi": {
+   "id": "e4485716766c7878",
+   "size": 216435,
+   "sha256": "e4485716766c7878a855b25bc468d3171991eb982ef9985d13db60a926db00b0",
+   "md5": "afd865cc3308c6a5baa2960a2cc322ac"
+  },
+  "uploads/G600L.umi": {
+   "id": "e2e8a671fd9f91e5",
+   "size": 194824,
+   "sha256": "e2e8a671fd9f91e5749393f572f9d0b37b71c781446bc8eb0204e10c4220154f",
+   "md5": "0b6f51c44f99019ecf6500f7fa284d62"
+  },
+  "uploads/G710L.umi": {
+   "id": "4b953d9f3d96b7fb",
+   "size": 283068,
+   "sha256": "4b953d9f3d96b7fb0a04e640ad427ccc4f775c63fa20fb2ce60952e362050f33",
+   "md5": "46caa8ab7a77654d81436e8652422076"
+  },
+  "uploads/G8S_ThinQ_TZZGCDW7.umi": {
+   "id": "1becaa7835efa24c",
+   "size": 289946,
+   "sha256": "1becaa7835efa24c0d1302b131ff6727836ebf35f12881c092ae2cd955ff18ea",
+   "md5": "7f5423864ffd008808582d4b040f571d"
+  },
+  "uploads/G8X_ThinQ_TZZGCDW7.umi": {
+   "id": "1becaa7835efa24c",
+   "size": 289946,
+   "sha256": "1becaa7835efa24c0d1302b131ff6727836ebf35f12881c092ae2cd955ff18ea",
+   "md5": "7f5423864ffd008808582d4b040f571d"
+  },
+  "uploads/G8_ThinQ_TZZGCDW7.umi": {
+   "id": "1becaa7835efa24c",
+   "size": 289946,
+   "sha256": "1becaa7835efa24c0d1302b131ff6727836ebf35f12881c092ae2cd955ff18ea",
+   "md5": "7f5423864ffd008808582d4b040f571d"
+  },
+  "uploads/H932_YUWQU9W4.umi": {
+   "id": "5725be284f73cef3",
+   "size": 235242,
+   "sha256": "5725be284f73cef30f03e4a23c7c6fbc649b7a6f39463cba7e380e8e5208f38d",
+   "md5": "43517ae84409c2bb00ce138432f66f5a"
+  },
+  "uploads/HOUSE_V7_PD1718F_8953.umi": {
+   "id": "dc190f8c0e6d7d15",
+   "size": 251170,
+   "sha256": "dc190f8c0e6d7d15afa3858d3f56fe56c4be4b5ed98ca05f4871b812942890d9",
+   "md5": "6d4b98a2f2684aa6663bde2d62559f22"
+  },
+  "uploads/Honor_50_lite_GUMNU8X9.umi": {
+   "id": "c42d05ec2f8d8b89",
+   "size": 271786,
+   "sha256": "c42d05ec2f8d8b893fcf849d15df6ebac88c446caa2c2e650461d43d9657000e",
+   "md5": "f8de451a7825e8a735207f965ae5313e"
+  },
+  "uploads/Honor_60_BQCKQ7LT.umi": {
+   "id": "8ac3c7e0362a71ab",
+   "size": 410582,
+   "sha256": "8ac3c7e0362a71ab329ad379370f738d98c4cde72fc98a8c4e5312a6c1ce05b8",
+   "md5": "bd6abc17a7f27726ea5dee745e5cf525"
+  },
+  "uploads/Honor_8C.umi": {
+   "id": "ea96f42606052896",
+   "size": 131578,
+   "sha256": "ea96f426060528969f25bfb3e4a6d796592d6c3fd3d3d6eb2f68c9ce6524b750",
+   "md5": "747a319ea4feb0d0995f2ca5e54ffc98"
+  },
+  "uploads/Honor_9_SE_UFS_SAXSXLWN.umi": {
+   "id": "11fcdd017e701771",
+   "size": 280071,
+   "sha256": "11fcdd017e7017712d64e80ebd9cb98ff46343e3e4a0300f58d5cc4b4e8e4f63",
+   "md5": "90b8ab69963d59daaa8424bc9147cba0"
+  },
+  "uploads/Honor_Magic_V_5G_QTWJAVZY.umi": {
+   "id": "feb827d725cc45fd",
+   "size": 764058,
+   "sha256": "feb827d725cc45fd48b25f576cb10f5256115fdef54a332e58a95ba1d65c2aa8",
+   "md5": "67e6aceb501fe4dd45cca3af582e44db"
+  },
+  "uploads/Honor_Pad_X7_JVVXKRQD.umi": {
+   "id": "9d824ad9f9db4800",
+   "size": 269823,
+   "sha256": "9d824ad9f9db4800400de9ecdfd1c5d35edcf84976ad1dfe244b69e4fc140600",
+   "md5": "2d735a6b7469648a8d9e18b3cadd7ed6"
+  },
+  "uploads/Honor_X7_611EBYVY.umi": {
+   "id": "7c7dd1eaee00da48",
+   "size": 273753,
+   "sha256": "7c7dd1eaee00da482e5e146238e1c79523385abf6d370195d5b2e89531e711b1",
+   "md5": "e661d9ff736da32c48ac826c84919aa1"
+  },
+  "uploads/Honor_X8_PRO_HYBJKENJKE.umi": {
+   "id": "cf9e2be588ac3e35",
+   "size": 273753,
+   "sha256": "cf9e2be588ac3e35a3f8a05920628ef8c57a63f2892d3e18ba8df38a4ac97460",
+   "md5": "771adbb2ed0ce48f06d166ebd373bb15"
+  },
+  "uploads/Huawei-Gr5_JLTBZJ4Z.umi": {
+   "id": "3d1e590e034b7c73",
+   "size": 60839,
+   "sha256": "3d1e590e034b7c737d768101d10bd9f1d45ed8fd20d10874d2db59af6d71f6b2",
+   "md5": "bce4189018b6610765a8114b31ee24bc"
+  },
+  "uploads/Huawei-MediaPad-T3_8.0.umi": {
+   "id": "d8f2ece86b129f9a",
+   "size": 229334,
+   "sha256": "d8f2ece86b129f9adc3279b0ca8d645e27e8283de3f2d7a3b82651b9f3914292",
+   "md5": "2da220e7f29a859f370d6d04208c7854"
+  },
+  "uploads/Huawei_Honor_70_PNJACVG6.umi": {
+   "id": "9c77fc1e63711464",
+   "size": 411591,
+   "sha256": "9c77fc1e637114645126de1a322d2c8eda1a25be772798527f1ae6900f753578",
+   "md5": "f5072a807adc5e9cdd0227c3ccbda3ec"
+  },
+  "uploads/Huawei_Honor_Magic3_KRARVMFN.umi": {
+   "id": "06f55ec3c0b10543",
+   "size": 403840,
+   "sha256": "06f55ec3c0b1054352ad8aec7f720ffe282c01a5aeb057ae49f7ba6c18809b66",
+   "md5": "4c25b0d33642aae61f4d82f89f51686b"
+  },
+  "uploads/Huawei_Honor_Magic3_pro_FJLXHS42.umi": {
+   "id": "911d0de896581984",
+   "size": 395630,
+   "sha256": "911d0de896581984e287f7bbc079fed0f7dd05f308efc26e2e68f08c6d788252",
+   "md5": "bc19bd13f488f0e76d354e6a0f30c292"
+  },
+  "uploads/Huawei_Honor_Magic4_2VSWSQSD.umi": {
+   "id": "998d2b52324111f7",
+   "size": 764045,
+   "sha256": "998d2b52324111f7271b3f68a693b2a3779ef3f9b63c59483bfd06f3a898ea1a",
+   "md5": "32ceb08e03f57d080519b5a00dccad52"
+  },
+  "uploads/Huawei_Honor_Magic5_Lite_TYHJBS.umi": {
+   "id": "1d63c76526993bb1",
+   "size": 274732,
+   "sha256": "1d63c76526993bb13735446125ca3399ea9f071a7809a60e704feba148aecae0",
+   "md5": "fd2b23dd8d22640462e7b805fcedaa58"
+  },
+  "uploads/Huawei_Honor_Pad_8.umi": {
+   "id": "cf9e2be588ac3e35",
+   "size": 273753,
+   "sha256": "cf9e2be588ac3e35a3f8a05920628ef8c57a63f2892d3e18ba8df38a4ac97460",
+   "md5": "771adbb2ed0ce48f06d166ebd373bb15"
+  },
+  "uploads/Huawei_Honor_Pad_X9.umi": {
+   "id": "cf9e2be588ac3e35",
+   "size": 273753,
+   "sha256": "cf9e2be588ac3e35a3f8a05920628ef8c57a63f2892d3e18ba8df38a4ac97460",
+   "md5": "771adbb2ed0ce48f06d166ebd373bb15"
+  },
+  "uploads/Huawei_Honor_X40.umi": {
+   "id": "1d63c76526993bb1",
+   "size": 274732,
+   "sha256": "1d63c76526993bb13735446125ca3399ea9f071a7809a60e704feba148aecae0",
+   "md5": "fd2b23dd8d22640462e7b805fcedaa58"
+  },
+  "uploads/Huawei_Honor_X7b_UXVG536C.umi": {
+   "id": "544ca54d4e1c15bc",
+   "size": 273539,
+   "sha256": "544ca54d4e1c15bc572f159961d8f52a125233bee5d1eec669b64dbf9ef0850a",
+   "md5": "76f38842cb8268b136fc08ad37c4a0ee"
+  },
+  "uploads/Huawei_Honor_X8b.umi": {
+   "id": "cf9e2be588ac3e35",
+   "size": 273753,
+   "sha256": "cf9e2be588ac3e35a3f8a05920628ef8c57a63f2892d3e18ba8df38a4ac97460",
+   "md5": "771adbb2ed0ce48f06d166ebd373bb15"
+  },
+  "uploads/Huawei_Honor_X9a_YGTYHJDB.umi": {
+   "id": "1d63c76526993bb1",
+   "size": 274732,
+   "sha256": "1d63c76526993bb13735446125ca3399ea9f071a7809a60e704feba148aecae0",
+   "md5": "fd2b23dd8d22640462e7b805fcedaa58"
+  },
+  "uploads/Huawei_MatePad_11.5_M18FMQVX.umi": {
+   "id": "3331cbd593ecb8b4",
+   "size": 803355,
+   "sha256": "3331cbd593ecb8b4aa482e7b527d6c89d3aa719e5fa22bf9ceac12db65e5f6db",
+   "md5": "e99afcc1cde8b8df0e2f10698fc3e1fb"
+  },
+  "uploads/Huawei_MatePad_11_KQN482KC.umi": {
+   "id": "91b6ca6516367db2",
+   "size": 355318,
+   "sha256": "91b6ca6516367db2e134f4e80ff1f056bfcb649eef107b1a517e1aaacaf7e89b",
+   "md5": "b06e849c95a70d5bb634bbb8a96e2532"
+  },
+  "uploads/Huawei_Mate_50.umi": {
+   "id": "f52968d98689ad53",
+   "size": 758226,
+   "sha256": "f52968d98689ad533af13dec7aee495678a87bca496bf309b85852ad239422b0",
+   "md5": "34ab05e1676d52a39966464f904c94cb"
+  },
+  "uploads/Huawei_Mate_50_Pro.umi": {
+   "id": "f52968d98689ad53",
+   "size": 758226,
+   "sha256": "f52968d98689ad533af13dec7aee495678a87bca496bf309b85852ad239422b0",
+   "md5": "34ab05e1676d52a39966464f904c94cb"
+  },
+  "uploads/Huawei_Nova_10_Pro.umi": {
+   "id": "f75a680d79789245",
+   "size": 412056,
+   "sha256": "f75a680d79789245a1f93612b63f10f4accdbb750c869c239d09d333a9b7a19b",
+   "md5": "e77a118e0abfb60d1abd104885a868b2"
+  },
+  "uploads/Huawei_Nova_10_SE_SX9NWAFS.umi": {
+   "id": "5fbc367d78a19a8f",
+   "size": 280070,
+   "sha256": "5fbc367d78a19a8f3ceb8bd5fd95989c8177a957a20db26ddd07e41bd20c2aeb",
+   "md5": "d740593f40be64bb746407766c789597"
+  },
+  "uploads/Huawei_Nova_10_Youth.umi": {
+   "id": "cf9e2be588ac3e35",
+   "size": 273753,
+   "sha256": "cf9e2be588ac3e35a3f8a05920628ef8c57a63f2892d3e18ba8df38a4ac97460",
+   "md5": "771adbb2ed0ce48f06d166ebd373bb15"
+  },
+  "uploads/Huawei_Nova_11_Pro.umi": {
+   "id": "f75a680d79789245",
+   "size": 412056,
+   "sha256": "f75a680d79789245a1f93612b63f10f4accdbb750c869c239d09d333a9b7a19b",
+   "md5": "e77a118e0abfb60d1abd104885a868b2"
+  },
+  "uploads/Huawei_Nova_11_Ultra.umi": {
+   "id": "f75a680d79789245",
+   "size": 412056,
+   "sha256": "f75a680d79789245a1f93612b63f10f4accdbb750c869c239d09d333a9b7a19b",
+   "md5": "e77a118e0abfb60d1abd104885a868b2"
+  },
+  "uploads/Huawei_Nova_11i.umi": {
+   "id": "11fcdd017e701771",
+   "size": 280071,
+   "sha256": "11fcdd017e7017712d64e80ebd9cb98ff46343e3e4a0300f58d5cc4b4e8e4f63",
+   "md5": "90b8ab69963d59daaa8424bc9147cba0"
+  },
+  "uploads/Huawei_Nova_12_SE.umi": {
+   "id": "cf9e2be588ac3e35",
+   "size": 273753,
+   "sha256": "cf9e2be588ac3e35a3f8a05920628ef8c57a63f2892d3e18ba8df38a4ac97460",
+   "md5": "771adbb2ed0ce48f06d166ebd373bb15"
+  },
+  "uploads/Huawei_Nova_12i.umi": {
+   "id": "cf9e2be588ac3e35",
+   "size": 273753,
+   "sha256": "cf9e2be588ac3e35a3f8a05920628ef8c57a63f2892d3e18ba8df38a4ac97460",
+   "md5": "771adbb2ed0ce48f06d166ebd373bb15"
+  },
+  "uploads/Huawei_Nova_9_KATHY-AN00_8J2GKCNT.umi": {
+   "id": "2af7156c86f33a06",
+   "size": 411007,
+   "sha256": "2af7156c86f33a06b14c8c2801597d397b879736da1806adff1d88151477964c",
+   "md5": "7c2d907ab20193e55ee03a663a35e2c3"
+  },
+  "uploads/Huawei_P50_Pro_C2CCUA6W.umi": {
+   "id": "7ef6e80d97de7feb",
+   "size": 403400,
+   "sha256": "7ef6e80d97de7feb2a6ac61721ba18f0ea5fd1d195b2d6ae2d24f5f59a8ab365",
+   "md5": "1a170cd407446c4f8e96b48019b4bd2b"
+  },
+  "uploads/Huawei_P60.umi": {
+   "id": "f52968d98689ad53",
+   "size": 758226,
+   "sha256": "f52968d98689ad533af13dec7aee495678a87bca496bf309b85852ad239422b0",
+   "md5": "34ab05e1676d52a39966464f904c94cb"
+  },
+  "uploads/Huawei_P60_Art.umi": {
+   "id": "f52968d98689ad53",
+   "size": 758226,
+   "sha256": "f52968d98689ad533af13dec7aee495678a87bca496bf309b85852ad239422b0",
+   "md5": "34ab05e1676d52a39966464f904c94cb"
+  },
+  "uploads/Huawei_P60_Pro.umi": {
+   "id": "f52968d98689ad53",
+   "size": 758226,
+   "sha256": "f52968d98689ad533af13dec7aee495678a87bca496bf309b85852ad239422b0",
+   "md5": "34ab05e1676d52a39966464f904c94cb"
+  },
+  "uploads/Huawei_Y7_2019_DUB-AL00.umi": {
+   "id": "73b95ab49f1808a6",
+   "size": 131579,
+   "sha256": "73b95ab49f1808a6d02f429ca7b8ffa08f1cf94107620adc3eb19afe2a9c529b",
+   "md5": "17d3695a903f03d7cee8bf053ad78f05"
+  },
+  "uploads/Huawei_nova_10.umi": {
+   "id": "f75a680d79789245",
+   "size": 412056,
+   "sha256": "f75a680d79789245a1f93612b63f10f4accdbb750c869c239d09d333a9b7a19b",
+   "md5": "e77a118e0abfb60d1abd104885a868b2"
+  },
+  "uploads/Huawei_nova_11.umi": {
+   "id": "f75a680d79789245",
+   "size": 412056,
+   "sha256": "f75a680d79789245a1f93612b63f10f4accdbb750c869c239d09d333a9b7a19b",
+   "md5": "e77a118e0abfb60d1abd104885a868b2"
+  },
+  "uploads/IQOO_PRO.umi": {
+   "id": "432b64a0d7eecba6",
+   "size": 299718,
+   "sha256": "432b64a0d7eecba6707d4a8ebe9001cd529f39b4635735405d5c023138c45b65",
+   "md5": "effe2a5f8dbbe094b5d657054a863933"
+  },
+  "uploads/JMS_L03_LA_DC8Q6STS.umi": {
+   "id": "a23844c062f3eee5",
+   "size": 269806,
+   "sha256": "a23844c062f3eee52a884d9dea02d4ab9718c541180cd2325f266a1e8762d5b4",
+   "md5": "c402047c838ac69ce470b70c57a44037"
+  },
+  "uploads/JMS_L09_AS_YRP9NNS3.umi": {
+   "id": "a98cdccb15d917dd",
+   "size": 269803,
+   "sha256": "a98cdccb15d917dde8b41774de8574874c3655ce883cacb1628489b414b52d45",
+   "md5": "f6382432584de807041ab767223ec14e"
+  },
+  "uploads/JMS_L09_AZ_RB5J9XLZ.umi": {
+   "id": "4d1bdaddc8a4dbd8",
+   "size": 269816,
+   "sha256": "4d1bdaddc8a4dbd8afceaa52f177afa4be0f02e52a8d3307a21fbd6afdd89cd9",
+   "md5": "8867e7fe628c190e56a33115c3571246"
+  },
+  "uploads/JMS_W09_AS_G79NTDJ7.umi": {
+   "id": "5630914b4f5323c6",
+   "size": 269805,
+   "sha256": "5630914b4f5323c6f8d4c082e8e5ed8157651e3ea851d0de7b2e16deca6fd073",
+   "md5": "25d8f6a1e7f805a9e5be4397aecdd018"
+  },
+  "uploads/JMS_W09_AZ_Y5GYYUJS.umi": {
+   "id": "7eb12aeed3c41c9e",
+   "size": 269807,
+   "sha256": "7eb12aeed3c41c9e75b5983994b5cc791976a3673a9e4f88b430bff9b935ef08",
+   "md5": "9794531d9b02fc0f75c6cd44bc3b3f7c"
+  },
+  "uploads/JMS_W09_CA_5GUQB7CQ.umi": {
+   "id": "4a5ab7b6ecdb7d4a",
+   "size": 269804,
+   "sha256": "4a5ab7b6ecdb7d4a8855a63410269604fa65a1264256b3bd61de216b4e66bd8d",
+   "md5": "78a694c3dabd9e70cbfe888ba4bf92f8"
+  },
+  "uploads/JMS_W09_EU_FXRAMLHT.umi": {
+   "id": "97bf9bae11693eb5",
+   "size": 269807,
+   "sha256": "97bf9bae11693eb561d2497fb7fab54013d4fdf240ab5d1e9007deda7011793c",
+   "md5": "f91707441a27abdf08b86719c6c51cce"
+  },
+  "uploads/JMS_W09_LA_XLFJBVKR.umi": {
+   "id": "553c266e278f5c1d",
+   "size": 269811,
+   "sha256": "553c266e278f5c1df7e29e87bd2d193853446092b971cbdc92137b7cd2a15ce3",
+   "md5": "58f61b4b4806bd842c1bf654444be3fe"
+  },
+  "uploads/JioPhoneNext_0VJCCNAM.umi": {
+   "id": "add7f9f021e4259d",
+   "size": 236126,
+   "sha256": "add7f9f021e4259da504ba57b49b0850fcfea2b472375a9f1067ed0ebf9586b6",
+   "md5": "48747b15ad56ee473ff284d8438b0df3"
+  },
+  "uploads/Joy_1_prog.umi": {
+   "id": "dde4818a1409f3f4",
+   "size": 245256,
+   "sha256": "dde4818a1409f3f4263313aa24ab93e0eb51eb482d3be370615fb553fc77ea84",
+   "md5": "d260b03b372558bc5c9aae92da95e90c"
+  },
+  "uploads/K10Note_L38111.umi": {
+   "id": "65fcfbc88fb9f167",
+   "size": 294328,
+   "sha256": "65fcfbc88fb9f1677a17a820f87420dc828586becfc6cb2cc0ad00c52a5e72e6",
+   "md5": "441bc05ced571abcf83606230a210efb"
+  },
+  "uploads/K5_play_MWNBBSZR.umi": {
+   "id": "3280c03aa6d24218",
+   "size": 242230,
+   "sha256": "3280c03aa6d24218ad2343afe7f98146f5e31773a61c919ad42e6bf3bc4e538f",
+   "md5": "48410f0459786e996ddb9ddf35fb5de3"
+  },
+  "uploads/LDN-AL00.umi": {
+   "id": "263504a373c11473",
+   "size": 124278,
+   "sha256": "263504a373c11473fcdb2c7065a389f93ed54b485d897705084c2b5c6cb3df07",
+   "md5": "dc241cbfae5ef21f78f5690802a1dd99"
+  },
+  "uploads/LDN-L22A__hw__spcseas__LDN-LX2_8.0.0.158C636.oeminfo": {
+   "id": "e9f641ced8410f78",
+   "size": 484484,
+   "sha256": "e9f641ced8410f7842d4bcb15a05433b3a9c37b2d205633252e75e1b7b7fe8ae",
+   "md5": "bf6443e14ac7a37d1054b7a8d8dcdea2"
+  },
+  "uploads/LDN-LX2.umi": {
+   "id": "263504a373c11473",
+   "size": 124278,
+   "sha256": "263504a373c11473fcdb2c7065a389f93ed54b485d897705084c2b5c6cb3df07",
+   "md5": "dc241cbfae5ef21f78f5690802a1dd99"
+  },
+  "uploads/LG-V20-F800SLK_PHZGNFDM.umi": {
+   "id": "99605a6eadb26c22",
+   "size": 194814,
+   "sha256": "99605a6eadb26c221f4ee55a66b9c21f2532ca45e6f5827fc32906819dbd0033",
+   "md5": "468d756b5904acb37b2df19b3bf93f16"
+  },
+  "uploads/LG-V50-LM-V500N_TZZGCDW7.umi": {
+   "id": "1becaa7835efa24c",
+   "size": 289946,
+   "sha256": "1becaa7835efa24c0d1302b131ff6727836ebf35f12881c092ae2cd955ff18ea",
+   "md5": "7f5423864ffd008808582d4b040f571d"
+  },
+  "uploads/LG_LM-V600_AKTVT50F.umi": {
+   "id": "a71323b93aef4a63",
+   "size": 342808,
+   "sha256": "a71323b93aef4a6303434f08a0f9a081475963f97c112cfc2f799b85eb143482",
+   "md5": "7f0cba340f21822b729c5ab24605494b"
+  },
+  "uploads/LG_Q92_PP7E2YZR.umi": {
+   "id": "e7739da1593f6732",
+   "size": 285136,
+   "sha256": "e7739da1593f6732711a591dd7038565db5ea1fb2780e94a892d6a57fb36746d",
+   "md5": "34ca99697cf23df409b0f5e4152389ec"
+  },
+  "uploads/LG_Q92_PP7E2YZR_tY0snX3.umi": {
+   "id": "e7739da1593f6732",
+   "size": 285136,
+   "sha256": "e7739da1593f6732711a591dd7038565db5ea1fb2780e94a892d6a57fb36746d",
+   "md5": "34ca99697cf23df409b0f5e4152389ec"
+  },
+  "uploads/LG_V30_H930_UQWFHHDV.umi": {
+   "id": "cb5061e8727f1264",
+   "size": 235226,
+   "sha256": "cb5061e8727f1264f315a76df963878dc29b4f8f28efb8b1c15da3422b1d4a36",
+   "md5": "2ccce79c220fd8a3ff83cbcf7f44f8e8"
+  },
+  "uploads/LG_Velvet_5G_G900N.umi": {
+   "id": "e7739da1593f6732",
+   "size": 285136,
+   "sha256": "e7739da1593f6732711a591dd7038565db5ea1fb2780e94a892d6a57fb36746d",
+   "md5": "34ca99697cf23df409b0f5e4152389ec"
+  },
+  "uploads/LG_velvet.umi": {
+   "id": "e7739da1593f6732",
+   "size": 285136,
+   "sha256": "e7739da1593f6732711a591dd7038565db5ea1fb2780e94a892d6a57fb36746d",
+   "md5": "34ca99697cf23df409b0f5e4152389ec"
+  },
+  "uploads/LG_winglm.umi": {
+   "id": "e7739da1593f6732",
+   "size": 285136,
+   "sha256": "e7739da1593f6732711a591dd7038565db5ea1fb2780e94a892d6a57fb36746d",
+   "md5": "34ca99697cf23df409b0f5e4152389ec"
+  },
+  "uploads/LMV409N_5UKXV67L.umi": {
+   "id": "4b953d9f3d96b7fb",
+   "size": 283068,
+   "sha256": "4b953d9f3d96b7fb0a04e640ad427ccc4f775c63fa20fb2ce60952e362050f33",
+   "md5": "46caa8ab7a77654d81436e8652422076"
+  },
+  "uploads/LND-L29.umi": {
+   "id": "98ad0c2133b1a67e",
+   "size": 123310,
+   "sha256": "98ad0c2133b1a67e7e5bddd3e363f3510cad0521f891744e079a17add6eb8b42",
+   "md5": "07de3eb2c4884a945d6bf3ec978544ad"
+  },
+  "uploads/LND-L29__hw__eu__LND-L29_8.0.0.106C432.oeminfo": {
+   "id": "8708bcb8ad6daaa6",
+   "size": 403557,
+   "sha256": "8708bcb8ad6daaa6474db33f772d2b98161e0dba8eee49859faf57056eb17d40",
+   "md5": "ece3fb69caae7c68a650907a4acd0e3a"
+  },
+  "uploads/LOADER_VIVO_V1.umi": {
+   "id": "0ee7dd36f550ae45",
+   "size": 57088,
+   "sha256": "0ee7dd36f550ae45547702929f14bcf5934bef32439ee054abba59fa44f95731",
+   "md5": "0312067ed2a1d2d1be6098aa1f23b6b8"
+  },
+  "uploads/LOADER_VIVO_V3.umi": {
+   "id": "9c904963673872da",
+   "size": 61259,
+   "sha256": "9c904963673872da8754519045596fa8cb3196f90086fc1e6b5a11d579b50395",
+   "md5": "0c47ab006f786c96c0546e4eaca6725e"
+  },
+  "uploads/LOADER_VIVO_V3_MAX.umi": {
+   "id": "04c217a8a242a0ab",
+   "size": 61260,
+   "sha256": "04c217a8a242a0ab8b637ca051ff3aff471990a0c21f04e71628cfa94ac5f391",
+   "md5": "bbdf78b7bc2b12184f5728b61eafe779"
+  },
+  "uploads/LOADER_VIVO_V7_PLUS.umi": {
+   "id": "cad41c9f611df47c",
+   "size": 222558,
+   "sha256": "cad41c9f611df47c6aca1dc404c06111bf369a7c876eb7d30e16e5d242452cf7",
+   "md5": "77e02f469696bb8b37aec9af76ebd476"
+  },
+  "uploads/LOADER_VIVO_X5.umi": {
+   "id": "f7a5deb4656b90a5",
+   "size": 58196,
+   "sha256": "f7a5deb4656b90a54f9b132926fb9a1e32e614204bfcfba5536e913c673830d4",
+   "md5": "58ab32980b8e5b90f5258b3cf0762221"
+  },
+  "uploads/LOADER_VIVO_X7.umi": {
+   "id": "b8b211e685460b53",
+   "size": 212085,
+   "sha256": "b8b211e685460b53e418cd73596c6aaaee5ac492ef9fe0af876924d5a2d7a669",
+   "md5": "2194befd595617e73bdbf37117c4e307"
+  },
+  "uploads/LOADER_VIVO_Y53.umi": {
+   "id": "050a219a04b756d9",
+   "size": 195686,
+   "sha256": "050a219a04b756d9316ea4fb506ee2f1ac0f963797879d55f6a0e379db782643",
+   "md5": "fa48d3200d6b49afcb5693b2399a486d"
+  },
+  "uploads/LT-P8i_Tablet_RNFBUBLV.umi": {
+   "id": "c9743980bc869e23",
+   "size": 264703,
+   "sha256": "c9743980bc869e23346dcd0d57b287ca2bcb211f41ef2c8890a9b3e96e205c99",
+   "md5": "d54440902427ccee6b47bf64ece8c265"
+  },
+  "uploads/LT-P9i_MP38REWJ.umi": {
+   "id": "d7c2ddac327b46c6",
+   "size": 264703,
+   "sha256": "d7c2ddac327b46c62f7f0081888f4de3a700d0af7c9b368bf104331b4a501f49",
+   "md5": "6a75b5b9cf2becd8cbbd9827e68314df"
+  },
+  "uploads/LT_P10_XQUBH880.umi": {
+   "id": "91359cd4da072623",
+   "size": 224983,
+   "sha256": "91359cd4da0726237e11d682c2493093191e9f297ceffae74930d9f7abfcc9db",
+   "md5": "4f817b9b93fc8c30ef2f82f7643b40eb"
+  },
+  "uploads/LT_P20_WSW85KWH.umi": {
+   "id": "07e7bbc9da0b4789",
+   "size": 255568,
+   "sha256": "07e7bbc9da0b4789c8a9e441094d4ec3bd53458bb3e93449911c1e7435e8cbea",
+   "md5": "5d91430b72251ed0a394b1f5d8908eba"
+  },
+  "uploads/LT_P30_LUHVHURQ.umi": {
+   "id": "cd107951322a2517",
+   "size": 242263,
+   "sha256": "cd107951322a25179e697eb326669c484795d905bb6377c2490b9e5375c3cee7",
+   "md5": "811725dc8bd10a07c0e08e3f10c47f31"
+  },
+  "uploads/LT_P40_WXHWZYWT.umi": {
+   "id": "d9306adc1b8b1faa",
+   "size": 265870,
+   "sha256": "d9306adc1b8b1faa2bf92c5a89ef692ff86295b8579b910db8883cf04528e7b9",
+   "md5": "302fda258ca4ea96a4a19daa7ebf5ddd"
+  },
+  "uploads/LT_P7S_4FJQMKE6.umi": {
+   "id": "0f2129d480cdf512",
+   "size": 225451,
+   "sha256": "0f2129d480cdf512e12b3a6e34f05bb1a4078ed8bae44413b750a9cc1fc637eb",
+   "md5": "5ef2c130ebc11c8d87619bb3b85858a1"
+  },
+  "uploads/LT_P8_KVBPJK02.umi": {
+   "id": "169424faef5bffbc",
+   "size": 238821,
+   "sha256": "169424faef5bffbc993d24c0f5fcac30ec4e81cd18bdab4d8524921e0999687a",
+   "md5": "bb697e0013f8766999afff34889ef8e8"
+  },
+  "uploads/LT_P9_WZHGRLMW.umi": {
+   "id": "c0951be443a3cdba",
+   "size": 239435,
+   "sha256": "c0951be443a3cdba929143bb7cdd0504bde425345929505cce835773b484aa63",
+   "md5": "702c60e84da4ff54308da3465118fcb9"
+  },
+  "uploads/LT_W5_JUB7WBEY.umi": {
+   "id": "7cb9056b114b8d40",
+   "size": 185403,
+   "sha256": "7cb9056b114b8d400861bafd69ccda2811f0d31d63df567c5add57b8ac9f14ee",
+   "md5": "447d6d31e725d6c8dc8b69837d990af1"
+  },
+  "uploads/LT_W7_PV6DZQQL.umi": {
+   "id": "b93e06915d804f48",
+   "size": 188770,
+   "sha256": "b93e06915d804f48b430f50bc3c9e88ffce47513f5bd9501f63f85ac53475b12",
+   "md5": "7403ed5a9442e9f56e3d551fc068e410"
+  },
+  "uploads/Lenovo_K10e70_FWMXCHGE.umi": {
+   "id": "214904ff5859f50b",
+   "size": 185857,
+   "sha256": "214904ff5859f50bd6b0253aceb6c7e13091bb6a86b214a475e879a6143987ae",
+   "md5": "8a2ddbc683fd35a85ce5020dd454cad9"
+  },
+  "uploads/Lenovo_K30-W_Y2LLSZYV.umi": {
+   "id": "e9d87c38797d5ed9",
+   "size": 57271,
+   "sha256": "e9d87c38797d5ed99d5d68cc44b3072fe1de282531bbe83b71e4dde65c64dd5f",
+   "md5": "0673dde55d78256849cdf1ff2e7b8b1c"
+  },
+  "uploads/Lenovo_K33a42_PNJJ9DQS.umi": {
+   "id": "1564316efe07f32e",
+   "size": 241530,
+   "sha256": "1564316efe07f32e399ef3d3cf370f585181a828f7626605e7404b969d83b861",
+   "md5": "919ff39cbd41d90d70765a852ca39da8"
+  },
+  "uploads/Lenovo_K33a42_PNJJ9DQS_cecE8FK.umi": {
+   "id": "1564316efe07f32e",
+   "size": 241530,
+   "sha256": "1564316efe07f32e399ef3d3cf370f585181a828f7626605e7404b969d83b861",
+   "md5": "919ff39cbd41d90d70765a852ca39da8"
+  },
+  "uploads/Lenovo_K53_LRPE6FBB.umi": {
+   "id": "4d568f246fd826a9",
+   "size": 240393,
+   "sha256": "4d568f246fd826a99b817ede72a91b8a8e26130569ddac2bb208a6fb2c53b829",
+   "md5": "5d92879be3917a7296d0c8fc71d94d12"
+  },
+  "uploads/Lenovo_K5_Pro_RUHKPYYE.umi": {
+   "id": "c4621e000158f578",
+   "size": 265890,
+   "sha256": "c4621e000158f578522d1fb5eace27bbac8e4fe7772be712fcc1707745a9dfd8",
+   "md5": "edda8b9feaea1c4ffe0104a664114108"
+  },
+  "uploads/Lenovo_L38012_96LQEXBC.umi": {
+   "id": "a0ddac62aa633d25",
+   "size": 222574,
+   "sha256": "a0ddac62aa633d25bc9aed09e49be01e9337a0c3eb62f378401c6285dbeb9dea",
+   "md5": "ac169cc96fcae21ceb2715fed6804797"
+  },
+  "uploads/Lenovo_L39051_JNWE9KUW.umi": {
+   "id": "6b6069bc36ebbc13",
+   "size": 237943,
+   "sha256": "6b6069bc36ebbc1359b404268e5aabdf92e75e4de80e0f83c35d9b1456e66452",
+   "md5": "ab29592215cd381ae128ffd5ae6d1c56"
+  },
+  "uploads/Lenovo_L78032_EEWCSSTJ.umi": {
+   "id": "a39783abdd657298",
+   "size": 296836,
+   "sha256": "a39783abdd657298daba1e3b00b4495981a727d706f37a97e328db2276f9da55",
+   "md5": "7f76a9e361059cedc191ccde5adcf00b"
+  },
+  "uploads/Lenovo_L78051_FVCZQ0P2.umi": {
+   "id": "59770b3ed92b2a81",
+   "size": 287378,
+   "sha256": "59770b3ed92b2a81382f1c420539b4ccbd8548bbafba0c0fe1ae53c2450824d7",
+   "md5": "1a2b52ef81671e82378035c6c8e25f7a"
+  },
+  "uploads/Lenovo_Legion_2_Pro_L70081_F7JBLEMW.umi": {
+   "id": "cfeff37e4d78f9f7",
+   "size": 414161,
+   "sha256": "cfeff37e4d78f9f73d4016eb99f5e3fa4f3225eda6d17b2e7ceff382cf4b3f47",
+   "md5": "9bec2aacae4ada5092909122dd4ac8a4"
+  },
+  "uploads/Lenovo_Legion_Pro_NWLL7A8S.umi": {
+   "id": "2cacd76c8024c97e",
+   "size": 358701,
+   "sha256": "2cacd76c8024c97ee0b67f75938a5f1ef64b92eb107dcd625169a24fd575a863",
+   "md5": "335904c5b244b90abf7ff463b988366f"
+  },
+  "uploads/Lenovo_P1A42.umi": {
+   "id": "ccff116a36f9736f",
+   "size": 61323,
+   "sha256": "ccff116a36f9736f746f98c64d78012d3b2877b7aa6aa7f7ca91a1708058f3e0",
+   "md5": "827fdf2c3a229d195d9adacd216b7c10"
+  },
+  "uploads/Lenovo_P1a41_LDBQZSNA.umi": {
+   "id": "9ed85a6d3f0f1049",
+   "size": 61329,
+   "sha256": "9ed85a6d3f0f104927d5f6f800c1be685ee471f980819bbce4ec0b3b63fe4b30",
+   "md5": "3575c21f706886aadedca0b8d5c3d328"
+  },
+  "uploads/Lenovo_PB1-770M.umi": {
+   "id": "ccff116a36f9736f",
+   "size": 61323,
+   "sha256": "ccff116a36f9736f746f98c64d78012d3b2877b7aa6aa7f7ca91a1708058f3e0",
+   "md5": "827fdf2c3a229d195d9adacd216b7c10"
+  },
+  "uploads/Lenovo_PC-TS508FAM.umi": {
+   "id": "764b8eae1e45bd98",
+   "size": 218600,
+   "sha256": "764b8eae1e45bd989ba3f44ceeef87b8537c2a5915d511d72527f1bedd0f1f99",
+   "md5": "cce630fb6e9c02c67731c06407ca12d4"
+  },
+  "uploads/Lenovo_S5_Pro_GT_PDLELSAQ.umi": {
+   "id": "2ed736c959cb33e9",
+   "size": 266047,
+   "sha256": "2ed736c959cb33e94b1c659bdeeb387bb28eef51754426bc5d4220909cc4ce80",
+   "md5": "9a623f40e2bcb67cce979cb286fbb13f"
+  },
+  "uploads/Lenovo_Z5.umi": {
+   "id": "2961949bc5b54de6",
+   "size": 265827,
+   "sha256": "2961949bc5b54de6d0f0b5a2b2485d7ae32a35f08dd148118d4c0d7e9e9490c7",
+   "md5": "5e6025e291c923630ece907263383c89"
+  },
+  "uploads/Lenovo_Z5_Pro_TGXS2XUB.umi": {
+   "id": "70a54b9328077e67",
+   "size": 294315,
+   "sha256": "70a54b9328077e67685f1e9d6ff9175d3b302272379fa8b25ab8869ad98f3045",
+   "md5": "f2ddee2ee608b20907cc67ee1f7df732"
+  },
+  "uploads/Lenovo_Z5s_L78071_AFUKZFAS.umi": {
+   "id": "cfc6bc930bc575b0",
+   "size": 295645,
+   "sha256": "cfc6bc930bc575b0f8b915ca96d816aa103317241e8328b2b5e6dcb3dfc72ba9",
+   "md5": "29f2117dc9ac6d1fb746a55105e64ad1"
+  },
+  "uploads/M6_C4000_FVB4M9D2.umi": {
+   "id": "436f2f5503dfee46",
+   "size": 238897,
+   "sha256": "436f2f5503dfee46145e038d40db5f38d63d33dbab8b44bac53e1440230fed5f",
+   "md5": "e43139f195e464a8b3fea7a30f0eb3be"
+  },
+  "uploads/MEIZU_M6_NOTE_P48U26VT.umi": {
+   "id": "eb63f84209a54cba",
+   "size": 4461895,
+   "sha256": "eb63f84209a54cbad2e36a7007b91ea7af1e385ebb9683ff0b228fc97c03d796",
+   "md5": "add33640688e6ce97631f438c4ea9643"
+  },
+  "uploads/MMX_HS2_XC329QZH.umi": {
+   "id": "019bdd4d15c42db9",
+   "size": 227868,
+   "sha256": "019bdd4d15c42db9856ea398b0f14ab0c7de176efac59b0ecf8454294d4a0be1",
+   "md5": "f65d59e64b6bd355eaaf228ce9faf73f"
+  },
+  "uploads/MMX_HS3_DNAF2C3Q.umi": {
+   "id": "756d661c2d468c3e",
+   "size": 241785,
+   "sha256": "756d661c2d468c3e1531ff1184885b89252fe98cc6f2a265465fa4838a270d92",
+   "md5": "30df51718ccccc69dc5c3265a7fc4704"
+  },
+  "uploads/Meizu_Note8_RRM5B2KZ.umi": {
+   "id": "d1858f35eff1f8ea",
+   "size": 237631,
+   "sha256": "d1858f35eff1f8ea2604d67324b473523c406dd633fc564f792f266078ab4d9c",
+   "md5": "9a71e0673b84b91759f0d09451b2b589"
+  },
+  "uploads/NEX_3.umi": {
+   "id": "432b64a0d7eecba6",
+   "size": 299718,
+   "sha256": "432b64a0d7eecba6707d4a8ebe9001cd529f39b4635735405d5c023138c45b65",
+   "md5": "effe2a5f8dbbe094b5d657054a863933"
+  },
+  "uploads/NEX_S_NZWACKNE.umi": {
+   "id": "852e1bb8ceff3fa0",
+   "size": 302975,
+   "sha256": "852e1bb8ceff3fa006e5c0c2b2506d730783ecb7ceb5e256c64d91e62d415015",
+   "md5": "410c5ff73992da2cb2a36c3732c9f6d1"
+  },
+  "uploads/NOTE_10_M_HXZPWXXF.umi": {
+   "id": "1016590247bff961",
+   "size": 242274,
+   "sha256": "1016590247bff961db2815b9d652a54980b3eacdb8bac27647ab3ea9dd8ff468",
+   "md5": "c056bf7a314ff997d3c3d43a04fcd876"
+  },
+  "uploads/NOVA_8I_FU6NQUA8.umi": {
+   "id": "37a47af2c9788946",
+   "size": 276817,
+   "sha256": "37a47af2c978894626314c955a69e88d814516c4b7455d212e9d7f5859a52e99",
+   "md5": "23b0779db8e1c3244b3db97d3d608dc3"
+  },
+  "uploads/NOVA_9_PRO_J8M3VSHB.umi": {
+   "id": "f75a680d79789245",
+   "size": 412056,
+   "sha256": "f75a680d79789245a1f93612b63f10f4accdbb750c869c239d09d333a9b7a19b",
+   "md5": "e77a118e0abfb60d1abd104885a868b2"
+  },
+  "uploads/NP01J_RTBRYMTH.umi": {
+   "id": "03d6b69d92e98d36",
+   "size": 712463,
+   "sha256": "03d6b69d92e98d363320187b6be7d909bd43a375ec586c18397ee48c8b8761b3",
+   "md5": "fbad962396679d4a439c249d6a43893e"
+  },
+  "uploads/NP02J_9PXDQPG2.umi": {
+   "id": "8643edb6d66fddde",
+   "size": 712463,
+   "sha256": "8643edb6d66fdddec6a84fdee73b03286416524f81b69ed436b67da03090f274",
+   "md5": "5d5fb314d3ef5f406c9f96ba9cb97169"
+  },
+  "uploads/NP03J_New_NUKEEDSS.umi": {
+   "id": "c4262cbeee2a7360",
+   "size": 711090,
+   "sha256": "c4262cbeee2a7360e12282f563d7a6985f3b64647809bc464f037e835334ed41",
+   "md5": "03229678a0793c499ac575ff08631ae6"
+  },
+  "uploads/NX651J_KQJSWP1E.umi": {
+   "id": "3bad04cc54881d5c",
+   "size": 281063,
+   "sha256": "3bad04cc54881d5ca25e426b4e1819287bb097cc386539b704919f11ca2ede02",
+   "md5": "a709eb252f199b6ae5eb60c2678b84ac"
+  },
+  "uploads/NX679J_PV11JDRN.umi": {
+   "id": "a0ca596758a9316f",
+   "size": 760276,
+   "sha256": "a0ca596758a9316f651f35711c148b4e0736f1241d1174669cf887b4c1c9c3f9",
+   "md5": "cdd3882fff4b36754a1533bc58a3ebcb"
+  },
+  "uploads/NX721J_VGNV5RC3.umi": {
+   "id": "5f96af79fb8e9445",
+   "size": 712463,
+   "sha256": "5f96af79fb8e944513db1e6d59ed04c6dbd153ed8e30f28b84d67ec21632130d",
+   "md5": "99142b7da21e3bf635c4a3f484b10fd5"
+  },
+  "uploads/Neo_3_5G_FMJJUE6N.umi": {
+   "id": "df051e0acec7bfec",
+   "size": 377471,
+   "sha256": "df051e0acec7bfec2ad73c67cb0939f2480027f933f7c2001e21a458ccbd7df6",
+   "md5": "202bd72a263acd688e6dcb1dee25d81d"
+  },
+  "uploads/Nex_3s_3K8LH5YC.umi": {
+   "id": "48d9e094872e5b6a",
+   "size": 383297,
+   "sha256": "48d9e094872e5b6afa9d9d23ab6f0e6fe375d0577656d8373141887d0b0d43f2",
+   "md5": "16f40147edddcee196a195adc4958406"
+  },
+  "uploads/Nex_A_PD1806_MRJKVTND.umi": {
+   "id": "a6e64c0c7b944514",
+   "size": 314481,
+   "sha256": "a6e64c0c7b9445148323914273f40e475cc1e68a99184aeb7c2b2d69b744746e",
+   "md5": "38b490c2db3076f6ee58b6dfe7e744ba"
+  },
+  "uploads/Nova_9_LX9.umi": {
+   "id": "c68362e6d209dbce",
+   "size": 412056,
+   "sha256": "c68362e6d209dbce9616327dda10729b9de52f19755b7857ee244b1994d0563c",
+   "md5": "2a5bc5abee3cdfa585a7bf893d97179d"
+  },
+  "uploads/Nova_9_New_BMKEYPTU.umi": {
+   "id": "c68362e6d209dbce",
+   "size": 412056,
+   "sha256": "c68362e6d209dbce9616327dda10729b9de52f19755b7857ee244b1994d0563c",
+   "md5": "2a5bc5abee3cdfa585a7bf893d97179d"
+  },
+  "uploads/OENPLUS-8T_5RS6CSQT.umi": {
+   "id": "9d54663889178e0a",
+   "size": 365071,
+   "sha256": "9d54663889178e0a5027ac8c07e9f773ee6579e2944be1e0dde22c9ff17fe791",
+   "md5": "91ab27687de12c4df74390af6bf4a291"
+  },
+  "uploads/OPPO_A33_2020_14VMW9VY.umi": {
+   "id": "cb9d4f5ad4074da7",
+   "size": 280357,
+   "sha256": "cb9d4f5ad4074da7dbddf6737ac7aaf84e2aabfc0c256895cbfbbfa333245970",
+   "md5": "41d2f9ec2da67663c5d85ac6de9df1c9"
+  },
+  "uploads/OPPO_A53S_DZEU4HY3.umi": {
+   "id": "7af6658c0e90d1d8",
+   "size": 280279,
+   "sha256": "7af6658c0e90d1d8b97f77b2d58cc732be56b8ff83ea44c3e8d7f418175c74ae",
+   "md5": "6fb43bbc859933a7e14168e5f88a02b1"
+  },
+  "uploads/OPPO_A57.umi": {
+   "id": "a5d3c323dd6c0f13",
+   "size": 240228,
+   "sha256": "a5d3c323dd6c0f131570b76ff64fa3c100fab0f1f66bede69022438f428a877e",
+   "md5": "f9938865a4b25bb73d87fd4242b70b17"
+  },
+  "uploads/OPPO_A5X-CPH2725.umi": {
+   "id": "66d5ad7408aa779f",
+   "size": 280265,
+   "sha256": "66d5ad7408aa779f33df510efd6eb6060f3da2d4b30f1df6ed9fe556ff191fcf",
+   "md5": "dfd7f254d0e2f33229c28cf00cf23ab0"
+  },
+  "uploads/OPPO_A5_2020.umi": {
+   "id": "38ee5acae456cd95",
+   "size": 286283,
+   "sha256": "38ee5acae456cd951719af3a9b2b875c409305e8c46596f51060425e81b8d3fc",
+   "md5": "cc9f27d3acef8632fbbe617603d6b347"
+  },
+  "uploads/OPPO_A5_PRO_4G_CPH2711_AQ7YC2P2.umi": {
+   "id": "66d5ad7408aa779f",
+   "size": 280265,
+   "sha256": "66d5ad7408aa779f33df510efd6eb6060f3da2d4b30f1df6ed9fe556ff191fcf",
+   "md5": "dfd7f254d0e2f33229c28cf00cf23ab0"
+  },
+  "uploads/OPPO_A71_CPH1801.umi": {
+   "id": "be42b4135213b6d1",
+   "size": 228215,
+   "sha256": "be42b4135213b6d164d7781a60330777cfd656d2be21a484fac9c3877af2730b",
+   "md5": "529f9d1702629e156443a8f03ab60689"
+  },
+  "uploads/OPPO_A9_2020.umi": {
+   "id": "38ee5acae456cd95",
+   "size": 286283,
+   "sha256": "38ee5acae456cd951719af3a9b2b875c409305e8c46596f51060425e81b8d3fc",
+   "md5": "cc9f27d3acef8632fbbe617603d6b347"
+  },
+  "uploads/OPPO_R11.umi": {
+   "id": "fb4c3ce6fc129915",
+   "size": 252224,
+   "sha256": "fb4c3ce6fc1299153ea5706b30355a591ba237ea15e1d94a591ad7de7421b569",
+   "md5": "d2db657a4ae2f57af6f9958e4f4263dc"
+  },
+  "uploads/OPPO_R11S.umi": {
+   "id": "3d3b13bb847dddf5",
+   "size": 252246,
+   "sha256": "3d3b13bb847dddf55f0f6c69dd1c00ff1fce6396b1f8d398bd16bac953b4720d",
+   "md5": "cc8cc74df91fb7ff65f6d98ddeadd3d8"
+  },
+  "uploads/OnePlus_11_5G.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/OnePlus_12.umi": {
+   "id": "d2534d33ce1f00d6",
+   "size": 718303,
+   "sha256": "d2534d33ce1f00d6393fb785548ad68373be34d7916cfb89684208481967445b",
+   "md5": "5e9a7a21ae7244d994e8df20a1706cb0"
+  },
+  "uploads/OnePlus_12R.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/OnePlus_13.umi": {
+   "id": "1e89dad35131cdee",
+   "size": 760243,
+   "sha256": "1e89dad35131cdee813ce14bfb2335692b4d991004d633e3d414dfb77caa99a9",
+   "md5": "b01c5c976c439d3e0be50d97fff3e8c4"
+  },
+  "uploads/OnePlus_13R.umi": {
+   "id": "d2534d33ce1f00d6",
+   "size": 718303,
+   "sha256": "d2534d33ce1f00d6393fb785548ad68373be34d7916cfb89684208481967445b",
+   "md5": "5e9a7a21ae7244d994e8df20a1706cb0"
+  },
+  "uploads/OnePlus_13S.umi": {
+   "id": "1e89dad35131cdee",
+   "size": 760243,
+   "sha256": "1e89dad35131cdee813ce14bfb2335692b4d991004d633e3d414dfb77caa99a9",
+   "md5": "b01c5c976c439d3e0be50d97fff3e8c4"
+  },
+  "uploads/OnePlus_13T.umi": {
+   "id": "1e89dad35131cdee",
+   "size": 760243,
+   "sha256": "1e89dad35131cdee813ce14bfb2335692b4d991004d633e3d414dfb77caa99a9",
+   "md5": "b01c5c976c439d3e0be50d97fff3e8c4"
+  },
+  "uploads/OnePlus_7T_NQXLUY9V.umi": {
+   "id": "c792af11b47f259e",
+   "size": 306974,
+   "sha256": "c792af11b47f259ec95f67718a8774dfac48dc55a5f4921a598636df77a63832",
+   "md5": "d7c3dc9485b12e78568a9eeec67aa71b"
+  },
+  "uploads/OnePlus_7T_Pro_GGTR9AX4.umi": {
+   "id": "c9b9a18389393d93",
+   "size": 306964,
+   "sha256": "c9b9a18389393d932fb443c4f66c27a0711481923f5b5b9d40aff8e1460ca383",
+   "md5": "b259a13369dd97a298ae0a1c7469d567"
+  },
+  "uploads/OnePlus_7_.umi": {
+   "id": "725461f74fe423a0",
+   "size": 298557,
+   "sha256": "725461f74fe423a05b8abe7e957e4ded63cd08a85b20153ad3eb731cc0a82e15",
+   "md5": "a890b3f6a1d8eb7c18b3776b239a230e"
+  },
+  "uploads/OnePlus_8.umi": {
+   "id": "9d54663889178e0a",
+   "size": 365071,
+   "sha256": "9d54663889178e0a5027ac8c07e9f773ee6579e2944be1e0dde22c9ff17fe791",
+   "md5": "91ab27687de12c4df74390af6bf4a291"
+  },
+  "uploads/OnePlus_8_Pro.umi": {
+   "id": "9d54663889178e0a",
+   "size": 365071,
+   "sha256": "9d54663889178e0a5027ac8c07e9f773ee6579e2944be1e0dde22c9ff17fe791",
+   "md5": "91ab27687de12c4df74390af6bf4a291"
+  },
+  "uploads/OnePlus_9.umi": {
+   "id": "068e4fb63a031373",
+   "size": 435435,
+   "sha256": "068e4fb63a0313731cb609264fd3a6e16e0e7ad24ec516d56b9a4fcf045dde94",
+   "md5": "03976a7c74104b5a60295e78562db964"
+  },
+  "uploads/OnePlus_9RT_5G.umi": {
+   "id": "068e4fb63a031373",
+   "size": 435435,
+   "sha256": "068e4fb63a0313731cb609264fd3a6e16e0e7ad24ec516d56b9a4fcf045dde94",
+   "md5": "03976a7c74104b5a60295e78562db964"
+  },
+  "uploads/OnePlus_9_Pro.umi": {
+   "id": "068e4fb63a031373",
+   "size": 435435,
+   "sha256": "068e4fb63a0313731cb609264fd3a6e16e0e7ad24ec516d56b9a4fcf045dde94",
+   "md5": "03976a7c74104b5a60295e78562db964"
+  },
+  "uploads/OnePlus_Ace_3.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/OnePlus_Ace_3V.umi": {
+   "id": "d780e5404835e6f8",
+   "size": 714562,
+   "sha256": "d780e5404835e6f8e86dec0a31d0b2ef3486d8c930078cee3db6673d168a1b3b",
+   "md5": "c50655f97b92600225838b5299d20c25"
+  },
+  "uploads/OnePlus_Ace_3_Pro.umi": {
+   "id": "d2534d33ce1f00d6",
+   "size": 718303,
+   "sha256": "d2534d33ce1f00d6393fb785548ad68373be34d7916cfb89684208481967445b",
+   "md5": "5e9a7a21ae7244d994e8df20a1706cb0"
+  },
+  "uploads/OnePlus_Ace_5.umi": {
+   "id": "d2534d33ce1f00d6",
+   "size": 718303,
+   "sha256": "d2534d33ce1f00d6393fb785548ad68373be34d7916cfb89684208481967445b",
+   "md5": "5e9a7a21ae7244d994e8df20a1706cb0"
+  },
+  "uploads/OnePlus_Ace_5_Pro.umi": {
+   "id": "1e89dad35131cdee",
+   "size": 760243,
+   "sha256": "1e89dad35131cdee813ce14bfb2335692b4d991004d633e3d414dfb77caa99a9",
+   "md5": "b01c5c976c439d3e0be50d97fff3e8c4"
+  },
+  "uploads/OnePlus_Ace_6.umi": {
+   "id": "1e89dad35131cdee",
+   "size": 760243,
+   "sha256": "1e89dad35131cdee813ce14bfb2335692b4d991004d633e3d414dfb77caa99a9",
+   "md5": "b01c5c976c439d3e0be50d97fff3e8c4"
+  },
+  "uploads/OnePlus_Nord_4.umi": {
+   "id": "d780e5404835e6f8",
+   "size": 714562,
+   "sha256": "d780e5404835e6f8e86dec0a31d0b2ef3486d8c930078cee3db6673d168a1b3b",
+   "md5": "c50655f97b92600225838b5299d20c25"
+  },
+  "uploads/OnePlus_Nord_CE_2_Lite.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/OnePlus_Nord_CE_4.umi": {
+   "id": "d1829450d655298d",
+   "size": 799756,
+   "sha256": "d1829450d655298dd325a929521ecc6cc54f0d09ee1235a9743fae19b4098326",
+   "md5": "aadde35dbfcc60a20a4d6122c2d0304a"
+  },
+  "uploads/OnePlus_Nord_CE_4_Lite.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/OnePlus_Nord_N200_5G_BPCMGCMT.umi": {
+   "id": "280ba19ca93c6320",
+   "size": 273586,
+   "sha256": "280ba19ca93c6320d2fa6f56b28866ce2d40d7a0cb8a3e9bcec4937031c8a995",
+   "md5": "35e7dd3b2c02438c6b036fdb0aee09bd"
+  },
+  "uploads/OnePlus_Nord_N20_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/OnePlus_Nord_N30_695_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/OnePlus_Open.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/OnePlus_Pad_2.umi": {
+   "id": "d2534d33ce1f00d6",
+   "size": 718303,
+   "sha256": "d2534d33ce1f00d6393fb785548ad68373be34d7916cfb89684208481967445b",
+   "md5": "5e9a7a21ae7244d994e8df20a1706cb0"
+  },
+  "uploads/OnePlus_Pad_3.umi": {
+   "id": "1e89dad35131cdee",
+   "size": 760243,
+   "sha256": "1e89dad35131cdee813ce14bfb2335692b4d991004d633e3d414dfb77caa99a9",
+   "md5": "b01c5c976c439d3e0be50d97fff3e8c4"
+  },
+  "uploads/OnePlus_Pad_Pro.umi": {
+   "id": "d2534d33ce1f00d6",
+   "size": 718303,
+   "sha256": "d2534d33ce1f00d6393fb785548ad68373be34d7916cfb89684208481967445b",
+   "md5": "5e9a7a21ae7244d994e8df20a1706cb0"
+  },
+  "uploads/Oneplus_1_KM3EJCHA.umi": {
+   "id": "6962f49416b6ab45",
+   "size": 56332,
+   "sha256": "6962f49416b6ab45ddc2da4d2c4b8105e341ae3cd1cb4db58c38f8137c42391c",
+   "md5": "1027b1da0f125f72580b35c9faabca2c"
+  },
+  "uploads/Oneplus_X_H1H8MJ6D.umi": {
+   "id": "bbe999ed0eee0ac3",
+   "size": 56632,
+   "sha256": "bbe999ed0eee0ac3a7e2c3262548690d2a02aa7c1a3d8975f1bd94f8fca93486",
+   "md5": "384b5ce3c1a171111f93f4217cba1efc"
+  },
+  "uploads/Oppo-R9s_ZNTQNHNG.umi": {
+   "id": "ce5db3edfb90fb1b",
+   "size": 219548,
+   "sha256": "ce5db3edfb90fb1b1c53462a21f136682e918c560e971fc7f66154c13c43a545",
+   "md5": "15288cb747fe59c6a92fc462b5fa5817"
+  },
+  "uploads/Oppo_A11N_Emmc_New.umi": {
+   "id": "9d30f23ab74a37c3",
+   "size": 275128,
+   "sha256": "9d30f23ab74a37c3e56c3bcf5b589c089b43a0b694f605a9eb5ce831dde273a7",
+   "md5": "46eb8b7c10c1ae9816e5f35861f81f73"
+  },
+  "uploads/Oppo_A11N_New.umi": {
+   "id": "04bfe05dcdfc2299",
+   "size": 275077,
+   "sha256": "04bfe05dcdfc2299da30e42dafc16f3873382deabae472dd19c4c5b969763024",
+   "md5": "42af3c5db990b38779da5c64bf8661b6"
+  },
+  "uploads/Oppo_A11X_Emmc_New.umi": {
+   "id": "9d30f23ab74a37c3",
+   "size": 275128,
+   "sha256": "9d30f23ab74a37c3e56c3bcf5b589c089b43a0b694f605a9eb5ce831dde273a7",
+   "md5": "46eb8b7c10c1ae9816e5f35861f81f73"
+  },
+  "uploads/Oppo_A11X_New.umi": {
+   "id": "04bfe05dcdfc2299",
+   "size": 275077,
+   "sha256": "04bfe05dcdfc2299da30e42dafc16f3873382deabae472dd19c4c5b969763024",
+   "md5": "42af3c5db990b38779da5c64bf8661b6"
+  },
+  "uploads/Oppo_A11_Emmc_New_BEU9B1BX.umi": {
+   "id": "9d30f23ab74a37c3",
+   "size": 275128,
+   "sha256": "9d30f23ab74a37c3e56c3bcf5b589c089b43a0b694f605a9eb5ce831dde273a7",
+   "md5": "46eb8b7c10c1ae9816e5f35861f81f73"
+  },
+  "uploads/Oppo_A11_New.umi": {
+   "id": "04bfe05dcdfc2299",
+   "size": 275077,
+   "sha256": "04bfe05dcdfc2299da30e42dafc16f3873382deabae472dd19c4c5b969763024",
+   "md5": "42af3c5db990b38779da5c64bf8661b6"
+  },
+  "uploads/Oppo_A1_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_A1_Pro.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_A36_KLRDFFLU.umi": {
+   "id": "cd71fc4a606c5edf",
+   "size": 283059,
+   "sha256": "cd71fc4a606c5edf4713e220500d3abebb6516ef7dc57d5c340ead7d0cbf7ab4",
+   "md5": "77e7a3a1e21343177981ce6dc949fe1f"
+  },
+  "uploads/Oppo_A3x_XJ3GEUUE.umi": {
+   "id": "1ae70e5f9ca60d2d",
+   "size": 280190,
+   "sha256": "1ae70e5f9ca60d2dcf99f87e49717a367537d6af18b1c2b55238fcaf499122e4",
+   "md5": "9dfc27ee9387bc6fb7fb8d54c8fdf0c3"
+  },
+  "uploads/Oppo_A52.umi": {
+   "id": "38ee5acae456cd95",
+   "size": 286283,
+   "sha256": "38ee5acae456cd951719af3a9b2b875c409305e8c46596f51060425e81b8d3fc",
+   "md5": "cc9f27d3acef8632fbbe617603d6b347"
+  },
+  "uploads/Oppo_A5_2020_Emmc_New_3LSJND6D.umi": {
+   "id": "8ffa6b395c0dce77",
+   "size": 275128,
+   "sha256": "8ffa6b395c0dce77ba4c3f4c79f4fc72de218840e231babbd43751b5f2c114b3",
+   "md5": "0c38a88bc1cd6fd1eae98b2c3be6d055"
+  },
+  "uploads/Oppo_A5i.umi": {
+   "id": "1ae70e5f9ca60d2d",
+   "size": 280190,
+   "sha256": "1ae70e5f9ca60d2dcf99f87e49717a367537d6af18b1c2b55238fcaf499122e4",
+   "md5": "9dfc27ee9387bc6fb7fb8d54c8fdf0c3"
+  },
+  "uploads/Oppo_A5i_Pro.umi": {
+   "id": "66d5ad7408aa779f",
+   "size": 280265,
+   "sha256": "66d5ad7408aa779f33df510efd6eb6060f3da2d4b30f1df6ed9fe556ff191fcf",
+   "md5": "dfd7f254d0e2f33229c28cf00cf23ab0"
+  },
+  "uploads/Oppo_A60.umi": {
+   "id": "26886cf54b66e207",
+   "size": 273631,
+   "sha256": "26886cf54b66e207a233b9470e5e44f76d3e5bdb41c6fd4c59dd519e4feb6232",
+   "md5": "b4231b590131c6184f5aa8410cd243c5"
+  },
+  "uploads/Oppo_A6_GT.umi": {
+   "id": "d1829450d655298d",
+   "size": 799756,
+   "sha256": "d1829450d655298dd325a929521ecc6cc54f0d09ee1235a9743fae19b4098326",
+   "md5": "aadde35dbfcc60a20a4d6122c2d0304a"
+  },
+  "uploads/Oppo_A72.umi": {
+   "id": "38ee5acae456cd95",
+   "size": 286283,
+   "sha256": "38ee5acae456cd951719af3a9b2b875c409305e8c46596f51060425e81b8d3fc",
+   "md5": "cc9f27d3acef8632fbbe617603d6b347"
+  },
+  "uploads/Oppo_A76_KLRDFFLU.umi": {
+   "id": "cd71fc4a606c5edf",
+   "size": 283059,
+   "sha256": "cd71fc4a606c5edf4713e220500d3abebb6516ef7dc57d5c340ead7d0cbf7ab4",
+   "md5": "77e7a3a1e21343177981ce6dc949fe1f"
+  },
+  "uploads/Oppo_A77_A77T_CPH1715_DMNAHVLT.umi": {
+   "id": "6778ae24f294dc4d",
+   "size": 228369,
+   "sha256": "6778ae24f294dc4d8cd0fccf818a879de1b34c5d8ca97dfd2f5fedc56965bca2",
+   "md5": "701c5666bb0be8dad92c998cfb5ae055"
+  },
+  "uploads/Oppo_A77s_HJBJDBN.umi": {
+   "id": "cd71fc4a606c5edf",
+   "size": 283059,
+   "sha256": "cd71fc4a606c5edf4713e220500d3abebb6516ef7dc57d5c340ead7d0cbf7ab4",
+   "md5": "77e7a3a1e21343177981ce6dc949fe1f"
+  },
+  "uploads/Oppo_A78_4G.umi": {
+   "id": "26886cf54b66e207",
+   "size": 273631,
+   "sha256": "26886cf54b66e207a233b9470e5e44f76d3e5bdb41c6fd4c59dd519e4feb6232",
+   "md5": "b4231b590131c6184f5aa8410cd243c5"
+  },
+  "uploads/Oppo_A95_2020.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/Oppo_A96_KLRDFFLU.umi": {
+   "id": "cd71fc4a606c5edf",
+   "size": 283059,
+   "sha256": "cd71fc4a606c5edf4713e220500d3abebb6516ef7dc57d5c340ead7d0cbf7ab4",
+   "md5": "77e7a3a1e21343177981ce6dc949fe1f"
+  },
+  "uploads/Oppo_A98.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_A9_2020_Emmc_New_PVFUNGMR.umi": {
+   "id": "48a1c271de4773ab",
+   "size": 275128,
+   "sha256": "48a1c271de4773ab3a1ca0ca9aff9b2b48321a6cc638b97ab1e822f15e960df2",
+   "md5": "6fd73b8195a7e3d186948bff7f237811"
+  },
+  "uploads/Oppo_F21_Pro_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_F21_Pro_KLRDFFLU.umi": {
+   "id": "cd71fc4a606c5edf",
+   "size": 283059,
+   "sha256": "cd71fc4a606c5edf4713e220500d3abebb6516ef7dc57d5c340ead7d0cbf7ab4",
+   "md5": "77e7a3a1e21343177981ce6dc949fe1f"
+  },
+  "uploads/Oppo_F23.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_F31_Pro.umi": {
+   "id": "d1829450d655298d",
+   "size": 799756,
+   "sha256": "d1829450d655298dd325a929521ecc6cc54f0d09ee1235a9743fae19b4098326",
+   "md5": "aadde35dbfcc60a20a4d6122c2d0304a"
+  },
+  "uploads/Oppo_F3_Plus_THNE4NFX.umi": {
+   "id": "6f266e04ecf02e60",
+   "size": 218461,
+   "sha256": "6f266e04ecf02e6088589fe1408190273861835df3334c0ed51bfc8bb0e3e339",
+   "md5": "14537526859c5a9f7fb8ce2656a3318a"
+  },
+  "uploads/Oppo_Find_N3.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/Oppo_Find_N5.umi": {
+   "id": "1e89dad35131cdee",
+   "size": 760243,
+   "sha256": "1e89dad35131cdee813ce14bfb2335692b4d991004d633e3d414dfb77caa99a9",
+   "md5": "b01c5c976c439d3e0be50d97fff3e8c4"
+  },
+  "uploads/Oppo_Find_X2.umi": {
+   "id": "9d54663889178e0a",
+   "size": 365071,
+   "sha256": "9d54663889178e0a5027ac8c07e9f773ee6579e2944be1e0dde22c9ff17fe791",
+   "md5": "91ab27687de12c4df74390af6bf4a291"
+  },
+  "uploads/Oppo_Find_X2_Lite_QL765.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/Oppo_Find_X2_Neo_QL765.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/Oppo_Find_X2_Pro.umi": {
+   "id": "9d54663889178e0a",
+   "size": 365071,
+   "sha256": "9d54663889178e0a5027ac8c07e9f773ee6579e2944be1e0dde22c9ff17fe791",
+   "md5": "91ab27687de12c4df74390af6bf4a291"
+  },
+  "uploads/Oppo_Find_X3.umi": {
+   "id": "3a2cafe38a4cbff1",
+   "size": 355004,
+   "sha256": "3a2cafe38a4cbff15f57aef2033dcf7a0bcfca5b9b8e91f5b3c2193a3401998d",
+   "md5": "21a9e385e1836bfaabdb64b270b4b617"
+  },
+  "uploads/Oppo_Find_X3_Neo.umi": {
+   "id": "9d54663889178e0a",
+   "size": 365071,
+   "sha256": "9d54663889178e0a5027ac8c07e9f773ee6579e2944be1e0dde22c9ff17fe791",
+   "md5": "91ab27687de12c4df74390af6bf4a291"
+  },
+  "uploads/Oppo_Find_X7_Ultra.umi": {
+   "id": "d2534d33ce1f00d6",
+   "size": 718303,
+   "sha256": "d2534d33ce1f00d6393fb785548ad68373be34d7916cfb89684208481967445b",
+   "md5": "5e9a7a21ae7244d994e8df20a1706cb0"
+  },
+  "uploads/Oppo_Find_X8_Ultra.umi": {
+   "id": "1e89dad35131cdee",
+   "size": 760243,
+   "sha256": "1e89dad35131cdee813ce14bfb2335692b4d991004d633e3d414dfb77caa99a9",
+   "md5": "b01c5c976c439d3e0be50d97fff3e8c4"
+  },
+  "uploads/Oppo_K10_KLRDFFLU.umi": {
+   "id": "cd71fc4a606c5edf",
+   "size": 283059,
+   "sha256": "cd71fc4a606c5edf4713e220500d3abebb6516ef7dc57d5c340ead7d0cbf7ab4",
+   "md5": "77e7a3a1e21343177981ce6dc949fe1f"
+  },
+  "uploads/Oppo_K10x.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_K11_4FBHPBCX.umi": {
+   "id": "39b86a808d7de2c8",
+   "size": 415073,
+   "sha256": "39b86a808d7de2c82fc6c4445e790d6bb0d4c595f30c5135675d0b3293e42a13",
+   "md5": "622bd15f93f2fccd3fc6d221bfeaff7d"
+  },
+  "uploads/Oppo_K11x.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_K12.umi": {
+   "id": "d1829450d655298d",
+   "size": 799756,
+   "sha256": "d1829450d655298dd325a929521ecc6cc54f0d09ee1235a9743fae19b4098326",
+   "md5": "aadde35dbfcc60a20a4d6122c2d0304a"
+  },
+  "uploads/Oppo_K12x_China.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_K3_ufs_QTCK00SF.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Oppo_Pad_Air.umi": {
+   "id": "26886cf54b66e207",
+   "size": 273631,
+   "sha256": "26886cf54b66e207a233b9470e5e44f76d3e5bdb41c6fd4c59dd519e4feb6232",
+   "md5": "b4231b590131c6184f5aa8410cd243c5"
+  },
+  "uploads/Oppo_R17_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Oppo_R17_Pro_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Oppo_RX17_Pro_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Oppo_Reno10_Pro.umi": {
+   "id": "837dfda55bf2fc2f",
+   "size": 415143,
+   "sha256": "837dfda55bf2fc2ffca35df06c4dea455aad999e7e1993129ef9ef1d57dc1186",
+   "md5": "8c6bc4ac4d8d7bde671630f7bd586d72"
+  },
+  "uploads/Oppo_Reno12_F_4G.umi": {
+   "id": "e1814fdbca9393f2",
+   "size": 283037,
+   "sha256": "e1814fdbca9393f252a48ec7174ccd98131eb9ecedc13fffc7d9438a3cd03f8f",
+   "md5": "4d0b8fdfb258636abe226848ab0dd725"
+  },
+  "uploads/Oppo_Reno4_N8W6BXNA.umi": {
+   "id": "c9d2fdf91e2ef17a",
+   "size": 301654,
+   "sha256": "c9d2fdf91e2ef17a2218e5651bf8fc883ac56642934e93edf76f7948869081d1",
+   "md5": "43cd8535bc353481bfae51aaedc52b29"
+  },
+  "uploads/Oppo_Reno4_Pro_5G_CPH2089_TIUHNJUFKHBN.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/Oppo_Reno4_Pro_N8W6BXNA.umi": {
+   "id": "c9d2fdf91e2ef17a",
+   "size": 301654,
+   "sha256": "c9d2fdf91e2ef17a2218e5651bf8fc883ac56642934e93edf76f7948869081d1",
+   "md5": "43cd8535bc353481bfae51aaedc52b29"
+  },
+  "uploads/Oppo_Reno5_5G_CPH2145_HKUQH2WJ.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/Oppo_Reno5_N8W6BXNA.umi": {
+   "id": "c9d2fdf91e2ef17a",
+   "size": 301654,
+   "sha256": "c9d2fdf91e2ef17a2218e5651bf8fc883ac56642934e93edf76f7948869081d1",
+   "md5": "43cd8535bc353481bfae51aaedc52b29"
+  },
+  "uploads/Oppo_Reno6_N8W6BXNA.umi": {
+   "id": "c9d2fdf91e2ef17a",
+   "size": 301654,
+   "sha256": "c9d2fdf91e2ef17a2218e5651bf8fc883ac56642934e93edf76f7948869081d1",
+   "md5": "43cd8535bc353481bfae51aaedc52b29"
+  },
+  "uploads/Oppo_Reno6_Pro_5G.umi": {
+   "id": "3a2cafe38a4cbff1",
+   "size": 355004,
+   "sha256": "3a2cafe38a4cbff15f57aef2033dcf7a0bcfca5b9b8e91f5b3c2193a3401998d",
+   "md5": "21a9e385e1836bfaabdb64b270b4b617"
+  },
+  "uploads/Oppo_Reno6_Pro_Plus_5G.umi": {
+   "id": "3a2cafe38a4cbff1",
+   "size": 355004,
+   "sha256": "3a2cafe38a4cbff15f57aef2033dcf7a0bcfca5b9b8e91f5b3c2193a3401998d",
+   "md5": "21a9e385e1836bfaabdb64b270b4b617"
+  },
+  "uploads/Oppo_Reno7_4G_ZFWW8GPC.umi": {
+   "id": "26886cf54b66e207",
+   "size": 273631,
+   "sha256": "26886cf54b66e207a233b9470e5e44f76d3e5bdb41c6fd4c59dd519e4feb6232",
+   "md5": "b4231b590131c6184f5aa8410cd243c5"
+  },
+  "uploads/Oppo_Reno7_Lite_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_Reno7_Z_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_Reno8_4G.umi": {
+   "id": "26886cf54b66e207",
+   "size": 273631,
+   "sha256": "26886cf54b66e207a233b9470e5e44f76d3e5bdb41c6fd4c59dd519e4feb6232",
+   "md5": "b4231b590131c6184f5aa8410cd243c5"
+  },
+  "uploads/Oppo_Reno8_Lite_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_Reno8_T_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_Reno8_Z_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Oppo_Reno_10.umi": {
+   "id": "837dfda55bf2fc2f",
+   "size": 415143,
+   "sha256": "837dfda55bf2fc2ffca35df06c4dea455aad999e7e1993129ef9ef1d57dc1186",
+   "md5": "8c6bc4ac4d8d7bde671630f7bd586d72"
+  },
+  "uploads/Oppo_Reno_10X_Zoom.umi": {
+   "id": "725461f74fe423a0",
+   "size": 298557,
+   "sha256": "725461f74fe423a05b8abe7e957e4ded63cd08a85b20153ad3eb731cc0a82e15",
+   "md5": "a890b3f6a1d8eb7c18b3776b239a230e"
+  },
+  "uploads/Oppo_Reno_3_Youth.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/Oppo_Reno_5G.umi": {
+   "id": "725461f74fe423a0",
+   "size": 298557,
+   "sha256": "725461f74fe423a05b8abe7e957e4ded63cd08a85b20153ad3eb731cc0a82e15",
+   "md5": "a890b3f6a1d8eb7c18b3776b239a230e"
+  },
+  "uploads/Oppo_Reno_A_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Oppo_Reno_Ace.umi": {
+   "id": "725461f74fe423a0",
+   "size": 298557,
+   "sha256": "725461f74fe423a05b8abe7e957e4ded63cd08a85b20153ad3eb731cc0a82e15",
+   "md5": "a890b3f6a1d8eb7c18b3776b239a230e"
+  },
+  "uploads/Oppo_Reno_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Orbic_Maui_RC545L_PUPJXLHN.umi": {
+   "id": "76372e1fd34373d4",
+   "size": 236789,
+   "sha256": "76372e1fd34373d48847f5b088fdec249df4d82bf14a9674167c73a20ee7579b",
+   "md5": "bcb1c965083ae42fa49746dc2dcc37fd"
+  },
+  "uploads/P400_FRP.umi": {
+   "id": "ea871772b50ce293",
+   "size": 251123,
+   "sha256": "ea871772b50ce293afda54c8dcc4598ef56d761da6fb0140d0de4ad99860e1fb",
+   "md5": "74006643296f2948090dac0384d877ba"
+  },
+  "uploads/PAL-AL00_10EBFADT.umi": {
+   "id": "a8751a3ba15a9648",
+   "size": 403200,
+   "sha256": "a8751a3ba15a9648ea2faa01954b8cfb0665cdad313b5a71d120b852ec8f6f73",
+   "md5": "b91f5bed7a0587845242d08d95013626"
+  },
+  "uploads/PB-6505MC_E7HN0TRZ.umi": {
+   "id": "75008e4a718cf508",
+   "size": 237905,
+   "sha256": "75008e4a718cf5088bed77dc317d187667b846966bd2e6ff1be3bd81f8dba214",
+   "md5": "31dec2151316bb2dfe77156a72cc45a3"
+  },
+  "uploads/PB-6505M_CBSYRCB4.umi": {
+   "id": "274006a562788834",
+   "size": 237905,
+   "sha256": "274006a562788834db98ce7edbfe849af34d310bb0cc9da897a79e3f13ab4054",
+   "md5": "8b0407ca692adb2b34d94e3b5319c5d6"
+  },
+  "uploads/PB-6505Y_3FLTMFGM.umi": {
+   "id": "a80eb62be7b5d33c",
+   "size": 237905,
+   "sha256": "a80eb62be7b5d33c65725afa7169de7c83d9476bc809904c9103c28288b63c53",
+   "md5": "89495a92bd05f436d3b810bb40675405"
+  },
+  "uploads/PB1-750M_RMGJ4EA0.umi": {
+   "id": "a13c9470737d66b9",
+   "size": 59982,
+   "sha256": "a13c9470737d66b96222bf8cf69d8620e288b19bbe7e2a3c9942ee4b9d14e69f",
+   "md5": "1663b07912423054d13aa571d2006025"
+  },
+  "uploads/PB2-690M_PMGR6FSU.umi": {
+   "id": "7a598c21ea7a37b8",
+   "size": 220069,
+   "sha256": "7a598c21ea7a37b8beb53d5fe6a9725c63a180bd808d47e21567c6dbe15decf2",
+   "md5": "0d4b26018e6cd2e60dc038500c35f3c8"
+  },
+  "uploads/PB2-690Y_BBS1FCUM.umi": {
+   "id": "e254975bfda70593",
+   "size": 220069,
+   "sha256": "e254975bfda705930ae6f836b16d8d617a698d422c1b867371d5ebced7809dbb",
+   "md5": "1ede2b3833a7a163affad21ad8bb9305"
+  },
+  "uploads/PCLM50_K7.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/PCRM00.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/PD1728UD_YJMXF9BA.umi": {
+   "id": "642f195ea040ff49",
+   "size": 270151,
+   "sha256": "642f195ea040ff4924daba762689e08f21ce04701b044ebeac724535cce4f8bc",
+   "md5": "affb0bd3ff7ed014ac7c0308250dfb94"
+  },
+  "uploads/PD1809A_PD1809T_2XKFLMY2.umi": {
+   "id": "7ceb1e934aee5950",
+   "size": 312518,
+   "sha256": "7ceb1e934aee59506c142ba7383ab77d6bbb61eb164ecf5f530be2b7369a02fc",
+   "md5": "c652e8282fcdaa1522bb26226df6a7d6"
+  },
+  "uploads/PD1813DA_LELGXDHA.umi": {
+   "id": "5d9d89f6af43648b",
+   "size": 302757,
+   "sha256": "5d9d89f6af43648bb84d2a4e3b0f31fab725a713aa2eab73c78ed22a6471a1fe",
+   "md5": "07680aaa2edc32893c1157987f3f2bcc"
+  },
+  "uploads/PD1816E_52ZKG9U8.umi": {
+   "id": "fe3ad59d8fd03d15",
+   "size": 270971,
+   "sha256": "fe3ad59d8fd03d15f82a2ba52dac88b1cbce7a52b3d3b2bd4fd6ddb846d71fff",
+   "md5": "8993a60ec78ba3a9374c5716bd85cd4d"
+  },
+  "uploads/PD1824F.umi": {
+   "id": "a1d27a1da0481b01",
+   "size": 299802,
+   "sha256": "a1d27a1da0481b013a578fb3e9cfa5be348404a65aad4013c0266968871990aa",
+   "md5": "30e6bf7d30e8760d997b6b62ff83883d"
+  },
+  "uploads/PD1829.umi": {
+   "id": "0975fe2b5868845d",
+   "size": 302658,
+   "sha256": "0975fe2b5868845d38ba54a06b7b22d884542926d73f802d29e7aa88eca75f15",
+   "md5": "963c2b3f8ae954b78721edd35e7ccd40"
+  },
+  "uploads/PD1836A_AZLNBQQQ.umi": {
+   "id": "f3c7a8aa92e3cdc6",
+   "size": 315420,
+   "sha256": "f3c7a8aa92e3cdc6e63cb0f55afbe95b4cfffd6dfba326780b892f7275be0a7e",
+   "md5": "ea1569256309aeed324c0183b1b2c81e"
+  },
+  "uploads/PD1911F.umi": {
+   "id": "faa05e7011b381da",
+   "size": 302733,
+   "sha256": "faa05e7011b381dabd26b1987dbcd108ed7b3f2e8e661e6c222a47ff32ba5d70",
+   "md5": "66d6d300be1fa282bb23f047ca3a7218"
+  },
+  "uploads/PD1914a.umi": {
+   "id": "f578cf8e9366d4f2",
+   "size": 292645,
+   "sha256": "f578cf8e9366d4f2048c7fee005dd907ac6884ae0f12689146deb7b094aa1158",
+   "md5": "6c8dcc6ed8192a6cdfc4a5ec945d0b71"
+  },
+  "uploads/PD1921F_0RE9AUEH.umi": {
+   "id": "755ff444e1b2ff31",
+   "size": 313241,
+   "sha256": "755ff444e1b2ff31cac16b0a240b9bb7010ccc52d88c6f17d7a5fff33cf2e5ba",
+   "md5": "b6cb32588f1367e059f269dfdaaca5b8"
+  },
+  "uploads/PD1936F.umi": {
+   "id": "5282ddeab666dc98",
+   "size": 299802,
+   "sha256": "5282ddeab666dc986b087f8178b7a55f524098cdfcccf44e1abc09e3229d5efe",
+   "md5": "bc9b16f08025dd4f40577d9babfb592f"
+  },
+  "uploads/PD1955_PQEA9RD3.umi": {
+   "id": "aababc8b3d5e71e7",
+   "size": 388340,
+   "sha256": "aababc8b3d5e71e7ebcb8e41a62d99242acfdafaac102058abd279b8a5e57a4e",
+   "md5": "4fda870d5cf48ad8926f7980eedb51ab"
+  },
+  "uploads/PD1968F_1_QNBBMFGZ.umi": {
+   "id": "71c392c30ad9c236",
+   "size": 306009,
+   "sha256": "71c392c30ad9c236e82d1c2ca4692d302ea1a97752885a9501a581975100d15b",
+   "md5": "c83d3f2856504e7ed5e8daee64d6360a"
+  },
+  "uploads/PD1982F_CKUEFHL3.umi": {
+   "id": "69f0aab0d0e7e796",
+   "size": 272960,
+   "sha256": "69f0aab0d0e7e796325cc7361507d274055f6cea44846197d7ebf4b8421eb7a1",
+   "md5": "048a8e6b8e80372917007bb0ce13fa67"
+  },
+  "uploads/PD2012_LYDLFJFG.umi": {
+   "id": "b9223bb7488b6010",
+   "size": 305977,
+   "sha256": "b9223bb7488b6010093e1bf2bc9988907b34839d5538be40b1bcaa6c93638cee",
+   "md5": "d7d1dc5b21ec6f54d4a5452af91d6184"
+  },
+  "uploads/PD2020C.umi": {
+   "id": "27ae562b1603f299",
+   "size": 306017,
+   "sha256": "27ae562b1603f2994b905c8d7337ff703fcf409f78199d55e69ee74d7b76e830",
+   "md5": "9bf04b0cac4ddf72a4b085873c0e1873"
+  },
+  "uploads/PD2023E_TQUTZHPM.umi": {
+   "id": "ede32e5612cdf61f",
+   "size": 304749,
+   "sha256": "ede32e5612cdf61f71de894b1f218c6d5be5513ada6ee8feca1ffbad4ebcedeb",
+   "md5": "84d871d046438550e4d4a2f3a1b3cbcd"
+  },
+  "uploads/PD2024_FMJJUE6N.umi": {
+   "id": "df051e0acec7bfec",
+   "size": 377471,
+   "sha256": "df051e0acec7bfec2ad73c67cb0939f2480027f933f7c2001e21a458ccbd7df6",
+   "md5": "202bd72a263acd688e6dcb1dee25d81d"
+  },
+  "uploads/PD2040F_X5FMYRSP.umi": {
+   "id": "c796bde403a00b73",
+   "size": 277172,
+   "sha256": "c796bde403a00b73837c9e1d6c3f588f5fda3d04b86ff638843b210f6ff478c7",
+   "md5": "704bcbc9e7ac603308078f3ab099e799"
+  },
+  "uploads/PD2065_ZFBYXS2K.umi": {
+   "id": "e282349649b59a96",
+   "size": 286967,
+   "sha256": "e282349649b59a9633d3aa5eb5f3a4690b3dd34f9d5f311d707c6c0ac0006843",
+   "md5": "cd9de03504e622073542c1d5e3eef255"
+  },
+  "uploads/PD2067F_1_H1ETEPK1.umi": {
+   "id": "109cd857008353b3",
+   "size": 298603,
+   "sha256": "109cd857008353b36b12fb5318929efbd8d386645030816218e7127b523a1383",
+   "md5": "6410f9dc6c1a0bb29d405bd806398889"
+  },
+  "uploads/PD2106A_FXSJYWFX.umi": {
+   "id": "faa365aea9874426",
+   "size": 284638,
+   "sha256": "faa365aea98744266a4a070b985fa533478e0fb61dc89c8fc54df6efdc4cda8f",
+   "md5": "2758595969bd248b7f4d3ea9990bff29"
+  },
+  "uploads/PD2106_6UKKPQYG.umi": {
+   "id": "eb4a25dad102c945",
+   "size": 292195,
+   "sha256": "eb4a25dad102c945b1f75b5d17ff4557fb6c68abd375db5d60b67569e276196b",
+   "md5": "302b9e8fb4f9b691b73be15333044147"
+  },
+  "uploads/PDVM00_MTMWWSMH.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/PEGM00.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/Qualcomm_7Gen3_5_3S6VKCTH.umi": {
+   "id": "d1829450d655298d",
+   "size": 799756,
+   "sha256": "d1829450d655298dd325a929521ecc6cc54f0d09ee1235a9743fae19b4098326",
+   "md5": "aadde35dbfcc60a20a4d6122c2d0304a"
+  },
+  "uploads/R11S_GLOBAL.umi": {
+   "id": "df1e186f8e6cece3",
+   "size": 252232,
+   "sha256": "df1e186f8e6cece3a49b33ebd384a81111b816d10224979d4b51438a42018783",
+   "md5": "6b713513c12931fefe7917932ff51403"
+  },
+  "uploads/R7SM_VNDKYXHL.umi": {
+   "id": "0d8a8fc66d12543a",
+   "size": 61286,
+   "sha256": "0d8a8fc66d12543adc81c5fea15090c7c432433b3eaf52e19396751a86e4ec1a",
+   "md5": "728e1bf7260fade0ef182fd0f50ba4b9"
+  },
+  "uploads/R7s_plus_GUE3SDFR.umi": {
+   "id": "d1c8e2692b3c958c",
+   "size": 61277,
+   "sha256": "d1c8e2692b3c958cc8dc6de74c7d77ed566c44f1fd676b4d3f749267c83a9e8a",
+   "md5": "afafc8f3aaa1d81d69a6c440511df037"
+  },
+  "uploads/REALME_GTNEO5_RMX3700_030MYXUS.umi": {
+   "id": "bc6592051e36e9fe",
+   "size": 766669,
+   "sha256": "bc6592051e36e9fe984b9922b1bb5d8cecdfd3fc29f73fac012891a7d2a30d27",
+   "md5": "3bae8e12d7f18c64fad7cdf29e8bb011"
+  },
+  "uploads/RMX1805_Guide_H2N3UX3D.umi": {
+   "id": "24c44a6b0776bc4e",
+   "size": 238279,
+   "sha256": "24c44a6b0776bc4ece5234c85d5a154b45f9956f2ca715536f92e1dc58ddcdd5",
+   "md5": "ec15378ae5430e83ef6621a64449d02f"
+  },
+  "uploads/RMX1811_Guide_EPTQNLN8.umi": {
+   "id": "04f2a4ec23d64b95",
+   "size": 238289,
+   "sha256": "04f2a4ec23d64b955445cb52c66ef607232cce676367fc2eb60f3033cc04be5e",
+   "md5": "6814485de4e96e9bd064de3cbebd5adc"
+  },
+  "uploads/RMX1971_READ_WRITE_UHIKDSV.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/RMX2052.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/RMX2103_MTMWWSMH.umi": {
+   "id": "305ca77901e5f831",
+   "size": 280267,
+   "sha256": "305ca77901e5f831d1d0b80b530be5a91df1d98978c14d0e4150bb9841686377",
+   "md5": "57be5ba4f08498fde49b2011e1d358b2"
+  },
+  "uploads/ROBBY2_N2AUDGM7.umi": {
+   "id": "5572b0a2a0872a2e",
+   "size": 186063,
+   "sha256": "5572b0a2a0872a2e057a85e4d6fb4d8c02292535d575348e1de916c05c81aee3",
+   "md5": "fd8c9fd72ee385c442d37534f4da0d19"
+  },
+  "uploads/Realme_10_Pro_5G.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Realme_12_Lite_RMX3890.umi": {
+   "id": "e1814fdbca9393f2",
+   "size": 283037,
+   "sha256": "e1814fdbca9393f252a48ec7174ccd98131eb9ecedc13fffc7d9438a3cd03f8f",
+   "md5": "4d0b8fdfb258636abe226848ab0dd725"
+  },
+  "uploads/Realme_13_4G.umi": {
+   "id": "e1814fdbca9393f2",
+   "size": 283037,
+   "sha256": "e1814fdbca9393f252a48ec7174ccd98131eb9ecedc13fffc7d9438a3cd03f8f",
+   "md5": "4d0b8fdfb258636abe226848ab0dd725"
+  },
+  "uploads/Realme_3_Pro_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Realme_5_Emmc_New_8UU3MF90.umi": {
+   "id": "3e7b9cbfc7e6a60e",
+   "size": 275130,
+   "sha256": "3e7b9cbfc7e6a60e3001ca3cc19f49bd8470f87a7fa52b04550a41364f905eb8",
+   "md5": "84c6f3f05e437cd6a3fadac971bc390d"
+  },
+  "uploads/Realme_5i_Emmc_New_0KAPXYLK.umi": {
+   "id": "9cb5b7bfd1a338b4",
+   "size": 275130,
+   "sha256": "9cb5b7bfd1a338b4ced7ddf85b6b472bcaf61b76184ba6ac78e5fb7df2417187",
+   "md5": "b2c92f632faf0f9dac908d166411cd72"
+  },
+  "uploads/Realme_5s_Emmc_New_RTQRFQKU.umi": {
+   "id": "f06da71473ca86e5",
+   "size": 275130,
+   "sha256": "f06da71473ca86e50bc041a52eb2f09df7a13c644c5848ff6f30fd55290329cf",
+   "md5": "008190bbae84cae8192253a018c44341"
+  },
+  "uploads/Realme_9_KLRDFFLU.umi": {
+   "id": "cd71fc4a606c5edf",
+   "size": 283059,
+   "sha256": "cd71fc4a606c5edf4713e220500d3abebb6516ef7dc57d5c340ead7d0cbf7ab4",
+   "md5": "77e7a3a1e21343177981ce6dc949fe1f"
+  },
+  "uploads/Realme_9_Pro.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Realme_9i_KLRDFFLU.umi": {
+   "id": "cd71fc4a606c5edf",
+   "size": 283059,
+   "sha256": "cd71fc4a606c5edf4713e220500d3abebb6516ef7dc57d5c340ead7d0cbf7ab4",
+   "md5": "77e7a3a1e21343177981ce6dc949fe1f"
+  },
+  "uploads/Realme_C15_Rmx2195_NX0TFTVV.umi": {
+   "id": "445e161394fc41bd",
+   "size": 280222,
+   "sha256": "445e161394fc41bddd56758f62e454c7cdc35ae6abf553507d4def5b3a88e54f",
+   "md5": "57daae927d6f33b95253f036c13301db"
+  },
+  "uploads/Realme_CPH2173.umi": {
+   "id": "068e4fb63a031373",
+   "size": 435435,
+   "sha256": "068e4fb63a0313731cb609264fd3a6e16e0e7ad24ec516d56b9a4fcf045dde94",
+   "md5": "03976a7c74104b5a60295e78562db964"
+  },
+  "uploads/Realme_CPH2307.umi": {
+   "id": "068e4fb63a031373",
+   "size": 435435,
+   "sha256": "068e4fb63a0313731cb609264fd3a6e16e0e7ad24ec516d56b9a4fcf045dde94",
+   "md5": "03976a7c74104b5a60295e78562db964"
+  },
+  "uploads/Realme_GT5_240W.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/Realme_GT5_Pro.umi": {
+   "id": "d2534d33ce1f00d6",
+   "size": 718303,
+   "sha256": "d2534d33ce1f00d6393fb785548ad68373be34d7916cfb89684208481967445b",
+   "md5": "5e9a7a21ae7244d994e8df20a1706cb0"
+  },
+  "uploads/Realme_GT8.umi": {
+   "id": "1e89dad35131cdee",
+   "size": 760243,
+   "sha256": "1e89dad35131cdee813ce14bfb2335692b4d991004d633e3d414dfb77caa99a9",
+   "md5": "b01c5c976c439d3e0be50d97fff3e8c4"
+  },
+  "uploads/Realme_GT_5G_RMX2202_3YSBJZZF.umi": {
+   "id": "068e4fb63a031373",
+   "size": 435435,
+   "sha256": "068e4fb63a0313731cb609264fd3a6e16e0e7ad24ec516d56b9a4fcf045dde94",
+   "md5": "03976a7c74104b5a60295e78562db964"
+  },
+  "uploads/Realme_GT_Explorer_Master_Edition.umi": {
+   "id": "3a2cafe38a4cbff1",
+   "size": 355004,
+   "sha256": "3a2cafe38a4cbff15f57aef2033dcf7a0bcfca5b9b8e91f5b3c2193a3401998d",
+   "md5": "21a9e385e1836bfaabdb64b270b4b617"
+  },
+  "uploads/Realme_GT_Master_Edition_WRKKNS4N.umi": {
+   "id": "82291fc4b678ff10",
+   "size": 415143,
+   "sha256": "82291fc4b678ff108844b50dc9b6618246b9ef04ab890cb0f8032a90d18b235f",
+   "md5": "e3bca3473673715ba696c51ae2c3a217"
+  },
+  "uploads/Realme_GT_Neo6_SE.umi": {
+   "id": "d780e5404835e6f8",
+   "size": 714562,
+   "sha256": "d780e5404835e6f8e86dec0a31d0b2ef3486d8c930078cee3db6673d168a1b3b",
+   "md5": "c50655f97b92600225838b5299d20c25"
+  },
+  "uploads/Realme_GT_Neo_2_KLFSH3LQ.umi": {
+   "id": "3a2cafe38a4cbff1",
+   "size": 355004,
+   "sha256": "3a2cafe38a4cbff15f57aef2033dcf7a0bcfca5b9b8e91f5b3c2193a3401998d",
+   "md5": "21a9e385e1836bfaabdb64b270b4b617"
+  },
+  "uploads/Realme_GT_Neo_3T.umi": {
+   "id": "3a2cafe38a4cbff1",
+   "size": 355004,
+   "sha256": "3a2cafe38a4cbff15f57aef2033dcf7a0bcfca5b9b8e91f5b3c2193a3401998d",
+   "md5": "21a9e385e1836bfaabdb64b270b4b617"
+  },
+  "uploads/Realme_Narzo_20A_New_GKY57R7U.umi": {
+   "id": "d522a799bf106d6f",
+   "size": 275130,
+   "sha256": "d522a799bf106d6f03e2b9534a8c5d620540c0a57b995c458ccf601fafbb08a5",
+   "md5": "250040259db76b97fdfaa4c6e9674eee"
+  },
+  "uploads/Realme_PGIM10_ABCD.umi": {
+   "id": "068e4fb63a031373",
+   "size": 435435,
+   "sha256": "068e4fb63a0313731cb609264fd3a6e16e0e7ad24ec516d56b9a4fcf045dde94",
+   "md5": "03976a7c74104b5a60295e78562db964"
+  },
+  "uploads/Realme_Pad_X.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Realme_Q3_Pro_Carnival.umi": {
+   "id": "55e85e19e041382b",
+   "size": 300744,
+   "sha256": "55e85e19e041382b8d1c8244ad7f87d30fede6250cc7b0959ae56fc6552f25da",
+   "md5": "316951deaccf2a3a390cb49c736097eb"
+  },
+  "uploads/Realme_Q5.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Realme_Q5_Pro.umi": {
+   "id": "3a2cafe38a4cbff1",
+   "size": 355004,
+   "sha256": "3a2cafe38a4cbff15f57aef2033dcf7a0bcfca5b9b8e91f5b3c2193a3401998d",
+   "md5": "21a9e385e1836bfaabdb64b270b4b617"
+  },
+  "uploads/Realme_Q_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Realme_RMX3311_ABCD.umi": {
+   "id": "068e4fb63a031373",
+   "size": 435435,
+   "sha256": "068e4fb63a0313731cb609264fd3a6e16e0e7ad24ec516d56b9a4fcf045dde94",
+   "md5": "03976a7c74104b5a60295e78562db964"
+  },
+  "uploads/Realme_RMX3871_WZHURKJ1.umi": {
+   "id": "e1814fdbca9393f2",
+   "size": 283037,
+   "sha256": "e1814fdbca9393f252a48ec7174ccd98131eb9ecedc13fffc7d9438a3cd03f8f",
+   "md5": "4d0b8fdfb258636abe226848ab0dd725"
+  },
+  "uploads/Realme_V25.umi": {
+   "id": "8a92b3aaa77fcf4a",
+   "size": 297814,
+   "sha256": "8a92b3aaa77fcf4ab56f65c9c2b2a22de682cb992ca6e2d6a35f1acbfe8e0b14",
+   "md5": "7e497bd8f77aa009454b74d0825c0cd7"
+  },
+  "uploads/Realme_X2_Pro.umi": {
+   "id": "725461f74fe423a0",
+   "size": 298557,
+   "sha256": "725461f74fe423a05b8abe7e957e4ded63cd08a85b20153ad3eb731cc0a82e15",
+   "md5": "a890b3f6a1d8eb7c18b3776b239a230e"
+  },
+  "uploads/Realme_X3.umi": {
+   "id": "725461f74fe423a0",
+   "size": 298557,
+   "sha256": "725461f74fe423a05b8abe7e957e4ded63cd08a85b20153ad3eb731cc0a82e15",
+   "md5": "a890b3f6a1d8eb7c18b3776b239a230e"
+  },
+  "uploads/Realme_X3_SuperZoom.umi": {
+   "id": "725461f74fe423a0",
+   "size": 298557,
+   "sha256": "725461f74fe423a05b8abe7e957e4ded63cd08a85b20153ad3eb731cc0a82e15",
+   "md5": "a890b3f6a1d8eb7c18b3776b239a230e"
+  },
+  "uploads/Realme_X50M_5G.umi": {
+   "id": "9a22f959d760abfb",
+   "size": 293085,
+   "sha256": "9a22f959d760abfba13d84413a34ace8c092aa5394f8f6173ef766eb27eaaa5a",
+   "md5": "ba1857d26a596e90731854fed5b2efdc"
+  },
+  "uploads/Realme_X50_5G_ABM7BZDH.umi": {
+   "id": "9a22f959d760abfb",
+   "size": 293085,
+   "sha256": "9a22f959d760abfba13d84413a34ace8c092aa5394f8f6173ef766eb27eaaa5a",
+   "md5": "ba1857d26a596e90731854fed5b2efdc"
+  },
+  "uploads/Realme_XT_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Realme_X_Lite_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Realme_X_New.umi": {
+   "id": "5957a423525cafbc",
+   "size": 324852,
+   "sha256": "5957a423525cafbc039d91a11a7d6b6425859246ba48769192145d067c5ae9c3",
+   "md5": "08621f0c9122236f9bb737f603bc31f0"
+  },
+  "uploads/Redmi_Note_8T_New_ulb_HMBQCM8P_7UwH6w9.umi": {
+   "id": "264aa45a5526c61c",
+   "size": 520058,
+   "sha256": "264aa45a5526c61cf60029d5ec279aee0a882e294ede251e255ad97a05f020be",
+   "md5": "15a891a3f1fee7cc74e99521f56653cf"
+  },
+  "uploads/Redmi_Note_8_Miui_12_2WCRWH22.umi": {
+   "id": "7ef9778d19264af9",
+   "size": 4559669,
+   "sha256": "7ef9778d19264af9a7e09c6a4a267645b8698b243739933361792358e6370a0f",
+   "md5": "12780bfcb222e08c8dafb76a34bf503b"
+  },
+  "uploads/Relame_C67_RMX3890_AY9HH0XD.umi": {
+   "id": "3d3237edbdb35caf",
+   "size": 283094,
+   "sha256": "3d3237edbdb35cafde1dd5ab4191b79fb4fd4a12d545a4f2fa2970d1d131a917",
+   "md5": "00a0d1b146af16bb78995dabcce11dbe"
+  },
+  "uploads/Relame_PEUM00.umi": {
+   "id": "068e4fb63a031373",
+   "size": 435435,
+   "sha256": "068e4fb63a0313731cb609264fd3a6e16e0e7ad24ec516d56b9a4fcf045dde94",
+   "md5": "03976a7c74104b5a60295e78562db964"
+  },
+  "uploads/S7_97YQSDV2.umi": {
+   "id": "fee70c1db594003c",
+   "size": 306008,
+   "sha256": "fee70c1db594003cdd9b1550ecf7025a71074c195a8405d97f6dec95d72b8515",
+   "md5": "ef639daf7fb26ad7ce40ef52c3cb1712"
+  },
+  "uploads/SCC-U21_MXMHNBYS.umi": {
+   "id": "56ba57b31a0b100f",
+   "size": 96316,
+   "sha256": "56ba57b31a0b100f0e978011a2ef6964909e129202360ff23eafc40e37411d94",
+   "md5": "01440a476ac0ac5393cb9a87185d50df"
+  },
+  "uploads/SM-A057F_BIT-F_L8PYQUZP.umi": {
+   "id": "408b100fcf31bb83",
+   "size": 273853,
+   "sha256": "408b100fcf31bb83013521f0dfce7de92db539e1cd818cc952f78e20cd4eef16",
+   "md5": "f08dd9ae66c58faea6d710121fe8f032"
+  },
+  "uploads/SM-A057M_BIT-F_WNPDG3AX.umi": {
+   "id": "96b45c16315cc052",
+   "size": 273848,
+   "sha256": "96b45c16315cc052fdbb57b4ef94fd939bd8f3071704edd07cd401a23bc3a8e7",
+   "md5": "ace9527c811e730b4d5c82b9f2f3f94e"
+  },
+  "uploads/SM-A236B_BIT-F_QAKJM2JF.umi": {
+   "id": "47a543037faf44db",
+   "size": 270304,
+   "sha256": "47a543037faf44dbeea398501db732ce9f1f6e199805c8d6acec8fa0678b0faa",
+   "md5": "e917eaccea28a7c3c7cc56040aa3eaba"
+  },
+  "uploads/SM-A236E_BIT-G_ASPPUP82.umi": {
+   "id": "1c970fe2cded7792",
+   "size": 270305,
+   "sha256": "1c970fe2cded77925897a9a16d57d1598ebbd5789ce007c46195f938cc767cdf",
+   "md5": "0809b002290b61998f6cce1b68c0601a"
+  },
+  "uploads/SM-A236M_BIT-F_NLCPAQYE.umi": {
+   "id": "cc16a5e7f6c9f65a",
+   "size": 270315,
+   "sha256": "cc16a5e7f6c9f65a4a83bb845419493bade6c0d43e604005941aa092032c7993",
+   "md5": "56574ab834add1012e478c63e5d12311"
+  },
+  "uploads/SM-A236U_BIT-F_5AD0EAVE.umi": {
+   "id": "5a87e712111a9642",
+   "size": 270336,
+   "sha256": "5a87e712111a96426b82e4aa9c1d8c93fb5ae4f0da20ee4a741c71a8a6848be6",
+   "md5": "735a81dceadcf5af7fa28d5a5c606131"
+  },
+  "uploads/SM-F711B_BIT-I_QPAFXA8Q.umi": {
+   "id": "2a7c7af2aae396f3",
+   "size": 403358,
+   "sha256": "2a7c7af2aae396f34dd70004368dd7f02659824aa0ed067c8d2eb6c9ce74f081",
+   "md5": "7d956155bf97bef16566fd7292ff35c1"
+  },
+  "uploads/Snapdragon660.umi": {
+   "id": "48a2337bfd7bef18",
+   "size": 267135,
+   "sha256": "48a2337bfd7bef1860a9de9d5637cb4a19aa04d95e3fcc71675b0dcf7b734388",
+   "md5": "e391f3b8ba872a7a583d2d32f5301eec"
+  },
+  "uploads/TCL_MT45_0WU9SFM9.umi": {
+   "id": "909f16dfe79f1d5e",
+   "size": 283094,
+   "sha256": "909f16dfe79f1d5e6082bd5646376e8db48540fca84853cf148d4598480cbc1f",
+   "md5": "49ec6cad892ab14f2b6cf311fc0988b5"
+  },
+  "uploads/U10.umi": {
+   "id": "387c73db2244447b",
+   "size": 262090,
+   "sha256": "387c73db2244447bdcf442beb93b35f8ec17e14757b64b36c59f3978bf475fc5",
+   "md5": "1a4d0c14d1faec6d0ce987bdd1801bd0"
+  },
+  "uploads/U1X_LLRHYBVW.umi": {
+   "id": "e112c9cdbd69e7af",
+   "size": 286964,
+   "sha256": "e112c9cdbd69e7afe7d950f31809fc051bb2bb9a342c55144148f621b0cec4e6",
+   "md5": "318d96c135a63f97621845384ca360f3"
+  },
+  "uploads/U20.umi": {
+   "id": "d0522d2cdf9a2e2e",
+   "size": 285035,
+   "sha256": "d0522d2cdf9a2e2e2a577b53f30513b2ed40625c5eb820c8a2805d8616a834a8",
+   "md5": "29e92d1a56e5ff59de590055edc01d05"
+  },
+  "uploads/U3_S3W0YTRD.umi": {
+   "id": "0d176e93d253cdc3",
+   "size": 298767,
+   "sha256": "0d176e93d253cdc35930f8b504c653efab34f5ddf3d905dfafef9d7734fee2bb",
+   "md5": "60a2814af4799dd5658ecfb930fc38bd"
+  },
+  "uploads/V11_PRO.umi": {
+   "id": "eb92f39b616d598d",
+   "size": 271497,
+   "sha256": "eb92f39b616d598d66a45c5f50a9e7453ff8f2e8794ca4e578bb18177baf58c7",
+   "md5": "fb9fc5f4957e8cbe13b3fe7eaf0e9c4e"
+  },
+  "uploads/V17_Pro_1909.umi": {
+   "id": "d0522d2cdf9a2e2e",
+   "size": 285035,
+   "sha256": "d0522d2cdf9a2e2e2a577b53f30513b2ed40625c5eb820c8a2805d8616a834a8",
+   "md5": "29e92d1a56e5ff59de590055edc01d05"
+  },
+  "uploads/V19_neo.umi": {
+   "id": "d0522d2cdf9a2e2e",
+   "size": 285035,
+   "sha256": "d0522d2cdf9a2e2e2a577b53f30513b2ed40625c5eb820c8a2805d8616a834a8",
+   "md5": "29e92d1a56e5ff59de590055edc01d05"
+  },
+  "uploads/V19_new_frp.umi": {
+   "id": "b49663ee66a58b69",
+   "size": 308189,
+   "sha256": "b49663ee66a58b6944d74cdcf479feb8a11bb846c876e885040e0fe988f79371",
+   "md5": "44fabd9dcacfb03c326cc3101165b584"
+  },
+  "uploads/V20_SE_PD2038F_FHKFH9SA.umi": {
+   "id": "9adc1830f51e86e6",
+   "size": 275749,
+   "sha256": "9adc1830f51e86e6d973be260520b64c500e37b341199018ae49cf888956e418",
+   "md5": "f6194892c5b703b23ea3c717bfdb4b56"
+  },
+  "uploads/V9_Youth_-_Y85.umi": {
+   "id": "26cc960b2da364ae",
+   "size": 251157,
+   "sha256": "26cc960b2da364ae2e1a3f7042f0ec56d71bcc0fe28f00eae5c6da0819d7d0d7",
+   "md5": "83509b85b360d10d4872aa18781c8e56"
+  },
+  "uploads/VIVOX20.umi": {
+   "id": "6143fdbb7884bcca",
+   "size": 267667,
+   "sha256": "6143fdbb7884bcca694e4c22b62665daaddce3d5d7b675997497e1c4c707b6ea",
+   "md5": "de75c95af593de36dd0198457b7e426f"
+  },
+  "uploads/VIVOX21.umi": {
+   "id": "e492605ccbc609ae",
+   "size": 283724,
+   "sha256": "e492605ccbc609aeacfdc114c6876de36e9d0f8e8fb83615bb981df4d7bdd8ef",
+   "md5": "8111204e10d25a420b9f92338642d05a"
+  },
+  "uploads/VIVOY37-Y37A.umi": {
+   "id": "1aaeb2f5289a2f03",
+   "size": 58675,
+   "sha256": "1aaeb2f5289a2f03e01e08b8e0a4cd76aef1638bad203b0385e18d076c78a9ec",
+   "md5": "7d54d165d730ef835becf73a083184ad"
+  },
+  "uploads/VIVOY71_QC.umi": {
+   "id": "1e194e5aaa5678a2",
+   "size": 195690,
+   "sha256": "1e194e5aaa5678a253eb8c6e231cc1bb0c7a9aa02bb690224528a66d14d26935",
+   "md5": "4f2fa55217e0e6224eb9673e423572cf"
+  },
+  "uploads/VIVO_S5.umi": {
+   "id": "a3bd005464f506b1",
+   "size": 305158,
+   "sha256": "a3bd005464f506b176e6fb8ee632240982847452a672785306a38a7a56c01b8a",
+   "md5": "799b4df3175c7d454d8ecad7f11662e5"
+  },
+  "uploads/VIVO_U3X.umi": {
+   "id": "1bf16a9b4a0a8b47",
+   "size": 262090,
+   "sha256": "1bf16a9b4a0a8b4753fabcda689bcc3da83563457c5cb798a48f3f82759e244a",
+   "md5": "b9db80e8c353f063c0c07223fb968667"
+  },
+  "uploads/VIVO_V15_PRO_UFS.umi": {
+   "id": "9c8ab977c42fd085",
+   "size": 285035,
+   "sha256": "9c8ab977c42fd0852aebc251f1f9b11468ad34705def5aaa93ed76d3010ae4be",
+   "md5": "2f460722bc76952a61bf0ea83ba756af"
+  },
+  "uploads/VIVO_V9_PD1730F.umi": {
+   "id": "ab5b319d15079099",
+   "size": 251204,
+   "sha256": "ab5b319d150790992599d0660d079fb9e2fd56603bff614c237bc5c308b4ae36",
+   "md5": "bdc36c764203359737b7a6524e4fc7f4"
+  },
+  "uploads/VIVO_Y531606_QCN.qcn": {
+   "id": "bd00c846bd37b4ae",
+   "size": 535040,
+   "sha256": "bd00c846bd37b4aed1d0b23864b0fc6ade37dc6a1d696fd0928761828fe02ced",
+   "md5": "7dde3ae9f20488d093f8a69f60189e0f"
+  },
+  "uploads/VIVO_Y93__.umi": {
+   "id": "4dccf4f2f786299d",
+   "size": 223157,
+   "sha256": "4dccf4f2f786299d904459465b627dafe9263d297b2958c0c8cbff87216f9d46",
+   "md5": "5e9928d2051e9790f6e2720d817955fb"
+  },
+  "uploads/VIVO_Y95__.umi": {
+   "id": "4dccf4f2f786299d",
+   "size": 223157,
+   "sha256": "4dccf4f2f786299d904459465b627dafe9263d297b2958c0c8cbff87216f9d46",
+   "md5": "5e9928d2051e9790f6e2720d817955fb"
+  },
+  "uploads/VIVO_Z5_PD1921_Fac4_Frp4_J2YDQP2L.umi": {
+   "id": "7479a19339b64cbc",
+   "size": 313015,
+   "sha256": "7479a19339b64cbc16de5def03d9cc51132904def8af613d60f80fd5d5eaa6c1",
+   "md5": "985a86cbdb63fcd5e0fc9e4e746d24c1"
+  },
+  "uploads/VIVO_Z6_5G_PD1963_Fac4_Frp4_RVESDB9Q.umi": {
+   "id": "565b4c1b48b9a5ca",
+   "size": 303858,
+   "sha256": "565b4c1b48b9a5ca80ca47d65bb7944f4b783f7ceb35ee8a453c39e496685844",
+   "md5": "78df21084c96b5e6be775744510fc0ea"
+  },
+  "uploads/Vivo_PD2073_BHACPKBC.umi": {
+   "id": "d19b25cd510c4e60",
+   "size": 305977,
+   "sha256": "d19b25cd510c4e6089dcd6756fdc81c2de8f7b0780ee97b98243f539ed8104eb",
+   "md5": "fec69820e79bdaf0ba7f5934180e1f2e"
+  },
+  "uploads/Vivo_S1_Prime.umi": {
+   "id": "c5a734e1ef389b5f",
+   "size": 262094,
+   "sha256": "c5a734e1ef389b5ffd442706d84bb5be994da6bd7e37980f85a226cd3ea6bf15",
+   "md5": "97f07e5dbbab85b6befaee072dad383b"
+  },
+  "uploads/Vivo_T1_PD2115A_4_5_1P0AHHH7.umi": {
+   "id": "72ca61ab137dfe9c",
+   "size": 430192,
+   "sha256": "72ca61ab137dfe9ca0042036c6138a9f3da047a86dcb1e3bf3c5c7017f7bf142",
+   "md5": "0afd3f69bdff92c60f12aeaa3964366b"
+  },
+  "uploads/Vivo_V15_PRO_emmc_ZHVLDBDC.umi": {
+   "id": "db7e91dfee274267",
+   "size": 285037,
+   "sha256": "db7e91dfee27426731e9051abaf1a2c4cb9d9e267afbc46f6e051cba2d4c845b",
+   "md5": "f99c12bd9f773ac24f6c1084a5b8a3b1"
+  },
+  "uploads/Vivo_V20PRO.umi": {
+   "id": "61ed73d13247a50f",
+   "size": 313105,
+   "sha256": "61ed73d13247a50f0683dcfa2f4800392c0555e5c94a322cf4c1165356fb510b",
+   "md5": "57a22fd9bc592f51806c0d30444782bf"
+  },
+  "uploads/Vivo_V20_PD2039F_ADD_DEMO_YD7W9F1F.umi": {
+   "id": "8a3e69542fa4c19f",
+   "size": 308917,
+   "sha256": "8a3e69542fa4c19f1d20e9c95d21e599aa35663898a68a4b1f7fafa84738d8c5",
+   "md5": "109da2794a0105d2bae6d7db07c033b2"
+  },
+  "uploads/Vivo_V5_PMZ5SXS4.umi": {
+   "id": "d22fb4951db93244",
+   "size": 218397,
+   "sha256": "d22fb4951db93244c007d0669c1534e427166405cdca361f2815f0d79178a8bb",
+   "md5": "b67cfa765570a723e9c37b30762313a1"
+  },
+  "uploads/Vivo_X50.umi": {
+   "id": "aa5f32626595d997",
+   "size": 307240,
+   "sha256": "aa5f32626595d9973b2d84580041a2e14e9f60e26fb0753c269d33fbe3b23d75",
+   "md5": "8f1d7bd0b86700db6bff10fe787a42a0"
+  },
+  "uploads/Vivo_X50_Pro.umi": {
+   "id": "92a3255eef2216af",
+   "size": 296790,
+   "sha256": "92a3255eef2216af6ed4f3493dd86509bbf89543fad396c62903d53d13cfaa4a",
+   "md5": "63a6b02d43457bd2d1fce84e583bb288"
+  },
+  "uploads/Vivo_X60_PD2047_JNHBKN.umi": {
+   "id": "670ddb065b855ac6",
+   "size": 368858,
+   "sha256": "670ddb065b855ac641d18d2495b6d90c104b684136b61b9c6b6b6be5fd8165c8",
+   "md5": "4fc83943f744cea88bcc9e245302ed23"
+  },
+  "uploads/Vivo_X60_Pro_PD2059F_GCGWY51E.umi": {
+   "id": "670ddb065b855ac6",
+   "size": 368858,
+   "sha256": "670ddb065b855ac641d18d2495b6d90c104b684136b61b9c6b6b6be5fd8165c8",
+   "md5": "4fc83943f744cea88bcc9e245302ed23"
+  },
+  "uploads/Vivo_X9_chuyen_NUE19ASC.umi": {
+   "id": "2aa5912480f7dbe8",
+   "size": 218371,
+   "sha256": "2aa5912480f7dbe8cf679f902babe0504a4487c0cebb955e18a1bc5dabf6f4be",
+   "md5": "44b54188ef1b3e27e7692cd319b7c021"
+  },
+  "uploads/Vivo_X9i_PD1624_TUUVKAPM.umi": {
+   "id": "7bd592ac07fd3490",
+   "size": 219090,
+   "sha256": "7bd592ac07fd349081e0573cf4758a9e76dc616d8088e451cbd1471404ea2d0e",
+   "md5": "d3016b65d761caa7a1a79874179ed74b"
+  },
+  "uploads/Vivo_Y12S_2021_V2039.umi": {
+   "id": "21f3c68bfaf2a804",
+   "size": 224101,
+   "sha256": "21f3c68bfaf2a804d473e60227cc07aabe56e3195c79a6cce56a182cd307ff7e",
+   "md5": "db98b81bc0ae844747ac5e40dbd7cf02"
+  },
+  "uploads/Vivo_Y35_VRVZJRGP.umi": {
+   "id": "c74d5c55b0ecd724",
+   "size": 288784,
+   "sha256": "c74d5c55b0ecd724a14e0cb1c79e8f21755b50719d52e25449e837bd56cbcde7",
+   "md5": "a52fc7d9ea88906dc59aca56a7ee0549"
+  },
+  "uploads/Vivo_Y3_FVXF6VUL.umi": {
+   "id": "5914657f252cf3e6",
+   "size": 223633,
+   "sha256": "5914657f252cf3e6c9bdb8d8aeebb45e0d62e5fa6253be6b1a3587ef0148517a",
+   "md5": "e27c0e3ebc970bdc6ee44c855faff471"
+  },
+  "uploads/Vivo_Y50_FRP_GNHJVCYE.umi": {
+   "id": "b525edd43fec0b98",
+   "size": 271614,
+   "sha256": "b525edd43fec0b98b16e76f2fc4f44b03e7f38dffc74739ce5cf7f782c7465df",
+   "md5": "f31ac7a2dc65cd78dec8d7d72a9c11b1"
+  },
+  "uploads/Vivo_Y51_PD2050F_ADD_DEMO_LUHDVDVU.umi": {
+   "id": "28952bb2e4d642c4",
+   "size": 274397,
+   "sha256": "28952bb2e4d642c442d768d5d90b1789b401b262bc5d86622491940b9c020a2e",
+   "md5": "3e4738bdb9af1e2d171b877d7a36d939"
+  },
+  "uploads/Vivo_Y9S.umi": {
+   "id": "04775a22a2b5f48b",
+   "size": 262088,
+   "sha256": "04775a22a2b5f48b008d613cf89f9a5f5ca8ef328922f78823a46ec11fb74208",
+   "md5": "fea5e92e8d789556a7ea68e3dbbfa5b8"
+  },
+  "uploads/Vivo_Z3x_QTLKGLCQ.umi": {
+   "id": "2d97b5a7c379b731",
+   "size": 267882,
+   "sha256": "2d97b5a7c379b731a89c6da51fc22e76f3dc63b0b776ea571e1d893cba2524ee",
+   "md5": "81c49a634209707130e59c7b513410c6"
+  },
+  "uploads/Wiko_RAINBOW_LITE_4G_WZPFCYY2.umi": {
+   "id": "6cca70c2fddc6770",
+   "size": 177882,
+   "sha256": "6cca70c2fddc6770826af8b3a4a4d355d7ad8b03db9a6d2d4274e9518789f3cc",
+   "md5": "9fe3e0281d864e18a8ff84f52e523130"
+  },
+  "uploads/Wiko_RIDGE_FAB_4G_M4MX2UEA.umi": {
+   "id": "308a0f035e58e4f4",
+   "size": 56547,
+   "sha256": "308a0f035e58e4f48d1e9645c146c8b1a53b5dba0c911a79336c0983491bc53f",
+   "md5": "e7419ea0c1254e4b7ff205666cce12f0"
+  },
+  "uploads/Wiko_Ridge_4G_ZVNFANQU.umi": {
+   "id": "acbb6b8be2b9fd4d",
+   "size": 54567,
+   "sha256": "acbb6b8be2b9fd4d93af059dd8e9f860f12219d9c5adfa5f7ea27bc174ea2869",
+   "md5": "74f5612b21457dbc254c2aae73159788"
+  },
+  "uploads/Wiko_V12bn_Lite_XHCFYXL5.umi": {
+   "id": "0cf93c51ac959f03",
+   "size": 241771,
+   "sha256": "0cf93c51ac959f036d6dd576bad8f93a83f39933025af8a59b55ca9c9a3868c7",
+   "md5": "d76376c6b32feb4a89bb234e1a99a0e5"
+  },
+  "uploads/X20_CHINA_C42ETPQ6.umi": {
+   "id": "08e5450c91f2ebee",
+   "size": 268547,
+   "sha256": "08e5450c91f2ebee5429ef895743666012b22934d5bb5b9a28cb4e02de578212",
+   "md5": "9f0c71303809753a43ee87b7028a8612"
+  },
+  "uploads/X20_PL_YMDYKFJ2.umi": {
+   "id": "6df08d2cd4412019",
+   "size": 267643,
+   "sha256": "6df08d2cd4412019e64a1147e69d5e915835f8fc2bf125499b0fcf4d882baf7c",
+   "md5": "9345c1a60bae5f32bf8d671d6dbd997a"
+  },
+  "uploads/X50_PRO_PLUS_N4APK62S.umi": {
+   "id": "6b4cf8785cc2a76b",
+   "size": 389954,
+   "sha256": "6b4cf8785cc2a76b3be0a948f939a09fc8dbe5c622852554b2e17d6b01efc46c",
+   "md5": "8dbf41e1c645baadf20efdcdb9f8eb0b"
+  },
+  "uploads/X51_GA87ESPH.umi": {
+   "id": "e263a58ce788bfc7",
+   "size": 305859,
+   "sha256": "e263a58ce788bfc7a2519a6ed3511a98dd90cf213ef13e731af5d2bad369a8d8",
+   "md5": "78f93b328994e6c9cca383222e3330f5"
+  },
+  "uploads/X9S_PL_4XB4RMPM.umi": {
+   "id": "60630bd04b51e4a6",
+   "size": 249654,
+   "sha256": "60630bd04b51e4a611bd4cea0cf260f6afb505ef7ca0a851c7d9604ca28edc24",
+   "md5": "5bc32092ba585e6d4a01a071fe70a5b6"
+  },
+  "uploads/Y12i_FAC.umi": {
+   "id": "19235a6346cf64ad",
+   "size": 446636,
+   "sha256": "19235a6346cf64ad277c2c0aa0332585e54e92dc1f1614b1a1be9e8de07a52d8",
+   "md5": "380539667282521c786d12b2a74a055e"
+  },
+  "uploads/Y20A_PD2060F_Unlock.umi": {
+   "id": "21f3c68bfaf2a804",
+   "size": 224101,
+   "sha256": "21f3c68bfaf2a804d473e60227cc07aabe56e3195c79a6cce56a182cd307ff7e",
+   "md5": "db98b81bc0ae844747ac5e40dbd7cf02"
+  },
+  "uploads/Y50_V2.umi": {
+   "id": "c5a734e1ef389b5f",
+   "size": 262094,
+   "sha256": "c5a734e1ef389b5ffd442706d84bb5be994da6bd7e37980f85a226cd3ea6bf15",
+   "md5": "97f07e5dbbab85b6befaee072dad383b"
+  },
+  "uploads/Y55A_3QAGSKTE.umi": {
+   "id": "7102a5893def37ba",
+   "size": 237492,
+   "sha256": "7102a5893def37ba1c7d1c5084f8616eedf97b83ac25bb365b21eee206b8f6cc",
+   "md5": "7f16c314bdd0ec13fe94b374dbb15715"
+  },
+  "uploads/Y65_5JCUEGSL.umi": {
+   "id": "2246d5f89bc02b79",
+   "size": 226593,
+   "sha256": "2246d5f89bc02b79d0fdd02cc36d5aa84b21d9610d004834014d8bd5d624e2b2",
+   "md5": "f1cd6b5a40decc6a82ef20c862fe7b4d"
+  },
+  "uploads/Y66_NEW_XPEBVXE1.umi": {
+   "id": "ac1a56ce5e28a3e6",
+   "size": 238517,
+   "sha256": "ac1a56ce5e28a3e6eeff97c988b9448135603c13a5ec8cbae59c56ae9a5c7bc5",
+   "md5": "c9770b9fbc0853febe09943f204d9ac5"
+  },
+  "uploads/Y79_VDAANZQN.umi": {
+   "id": "03f81ab6a851a180",
+   "size": 251160,
+   "sha256": "03f81ab6a851a180a27c9f54d53ed4b0ac0e9a6c27a2e89335ade04343f109a4",
+   "md5": "fd9cdce31f2e23a352c166fecf95a8e9"
+  },
+  "uploads/Y91_QC_OVHcJNi.umi": {
+   "id": "074ffc79046c6e01",
+   "size": 223864,
+   "sha256": "074ffc79046c6e01129baccd69e7516db07e8fb96b48eebe5a6d51b00542507d",
+   "md5": "9da263f3e7b46e15473b2f35d440e524"
+  },
+  "uploads/Z1_PRO_MLNFZQKP.umi": {
+   "id": "ea6073aa772e11d2",
+   "size": 304971,
+   "sha256": "ea6073aa772e11d29e354304c3b2675c5e809710bbe35af7a8cc7a982b60d88f",
+   "md5": "539bef80e3435f1518b96401f86e89ce"
+  },
+  "uploads/ZTE_Axon_10_Pro_5G_P865A02_2QKQ2PY5_IREpqKI.umi": {
+   "id": "43154576191c9813",
+   "size": 358556,
+   "sha256": "43154576191c9813ae939dc020508887a7e5349e033a154d55aa14d27a84abce",
+   "md5": "74dfce40d6308918b453c4274e46a730"
+  },
+  "uploads/ZTE_Axon_10_Pro_5G_TWXFBZCV.umi": {
+   "id": "4d33135d03ae7836",
+   "size": 297751,
+   "sha256": "4d33135d03ae7836a9a21cc1ce065d9fd890e832bc91eac1756cbbe01d7a36a1",
+   "md5": "7c083da0c0c2bf0595bd75e9c11ac4ca"
+  },
+  "uploads/ZTE_Axon_30_Ultra_5G_ABPLYD8A.umi": {
+   "id": "8f87020932eb2192",
+   "size": 416220,
+   "sha256": "8f87020932eb2192d05181f625d6a13f9c569622fc3a30628960d89e0d78e766",
+   "md5": "a82b9903c9328368047b1208c2412e25"
+  },
+  "uploads/ZTE_B2017G_KAZSK0EZ.umi": {
+   "id": "f598af5a5d67502d",
+   "size": 195821,
+   "sha256": "f598af5a5d67502dfcc7be653c14611c75f608d9205f39b26d1387222b429c6c",
+   "md5": "0e34ae2e4c08ebf736dea453880a8c27"
+  },
+  "uploads/ZTE_BLADE_A3_2FHPXQUP.umi": {
+   "id": "164a83cb5946f286",
+   "size": 187245,
+   "sha256": "164a83cb5946f286986a750f6a13a25e984e8aaecbbdc2f5f99bc551ca85cf64",
+   "md5": "cf5182e1a108a18f2533499d80af1310"
+  },
+  "uploads/ZTE_C2016_NZ5GUYAD.umi": {
+   "id": "ff5fa350a46ae1ff",
+   "size": 195173,
+   "sha256": "ff5fa350a46ae1fff03d44f17a937af3fb939b834bd496345cffb8c5b6173d35",
+   "md5": "ed837d9c014d73ad6179ebc93cf2feaa"
+  },
+  "uploads/ZTE_China_Mobile_Pioneer_X1_XKUTX60D.umi": {
+   "id": "4e159125d9f02d11",
+   "size": 297751,
+   "sha256": "4e159125d9f02d1167865655c531e893ea5e58d01b1d669e010d0270c79e4640",
+   "md5": "4ee428983561a9d2ada5ae6604061273"
+  },
+  "uploads/ZTE_K81_DW8XV7UL.umi": {
+   "id": "7a44e968a18040d3",
+   "size": 188780,
+   "sha256": "7a44e968a18040d3d33ee064411bc4fbd7e6d1d5cdb4de5e77a4cc3fa698c7ff",
+   "md5": "6deb83078169e540f10bebf0d038a9e8"
+  },
+  "uploads/ZTE_K88_GHGTNPCA.umi": {
+   "id": "0ab5d570c30a0532",
+   "size": 196120,
+   "sha256": "0ab5d570c30a0532a414d61ce99702b55f43fa8040ee27664de1a6142742de77",
+   "md5": "59302bf6afc505b515eff8e080d88d2e"
+  },
+  "uploads/ZTE_MF97B_8UHJ2KQF.umi": {
+   "id": "a9a51032252b0026",
+   "size": 33705,
+   "sha256": "a9a51032252b00260d4f3e978042faef506823a71171f844ef61aabac83865fe",
+   "md5": "037dd54abec87def4553e021217efbd3"
+  },
+  "uploads/ZTE_N9136_STFYQHVJ.umi": {
+   "id": "222da05b96c22a32",
+   "size": 188772,
+   "sha256": "222da05b96c22a32730c9de00c68843e910b7dde1fec939e262e39a78abaeb3a",
+   "md5": "d973f0401dd416b3c41043a76ecc620b"
+  },
+  "uploads/ZTE_N9517_S3YGFYQY.umi": {
+   "id": "ac367581c207246a",
+   "size": 232084,
+   "sha256": "ac367581c207246a7bde99e7230aaff7843ca2f38cd9a690b845e3f8b52d73d2",
+   "md5": "e16db98f29410e7001c904f2feec1b88"
+  },
+  "uploads/ZTE_N9518_WXPYEEH4.umi": {
+   "id": "b59eb9a9ea5a2928",
+   "size": 143581,
+   "sha256": "b59eb9a9ea5a29285a604ec3a09206f297530388a097fbc0c585fab36454e051",
+   "md5": "2df5d200fd70598437393ad43f42b4f0"
+  },
+  "uploads/ZTE_N9519_MAYXDGST.umi": {
+   "id": "567ced14e94259ba",
+   "size": 143575,
+   "sha256": "567ced14e94259baa451888cddeb4c89594d225b8cc926bed880a2fd5a238cec",
+   "md5": "c0a1dc6c991bc68dbb9023762847942b"
+  },
+  "uploads/ZTE_N9560_L0VWECRR.umi": {
+   "id": "90e1bc287ab2ec3c",
+   "size": 244408,
+   "sha256": "90e1bc287ab2ec3c757f78e0875d5f0df5690032bc7d2ca021bb5433011b33d5",
+   "md5": "579fea0149b3c3ad6a72a6806f8b8f61"
+  },
+  "uploads/ZTE_Nubia_Red_Magic_9_Pro.umi": {
+   "id": "cce25e358ddce918",
+   "size": 712463,
+   "sha256": "cce25e358ddce9182ce163c59862e39680192248d218f5cd73aa3b0cd208630a",
+   "md5": "06f38b4e81e5bb8a22f400e680915109"
+  },
+  "uploads/ZTE_Nubia_Red_Magic_9_Proplus.umi": {
+   "id": "cce25e358ddce918",
+   "size": 712463,
+   "sha256": "cce25e358ddce9182ce163c59862e39680192248d218f5cd73aa3b0cd208630a",
+   "md5": "06f38b4e81e5bb8a22f400e680915109"
+  },
+  "uploads/ZTE_Nubia_Red_Magic_9_SLMRJRLN.umi": {
+   "id": "cce25e358ddce918",
+   "size": 712463,
+   "sha256": "cce25e358ddce9182ce163c59862e39680192248d218f5cd73aa3b0cd208630a",
+   "md5": "06f38b4e81e5bb8a22f400e680915109"
+  },
+  "uploads/ZTE_Nubia_Z18_SSCNYVZD.umi": {
+   "id": "5c748b427e9cb108",
+   "size": 290369,
+   "sha256": "5c748b427e9cb108342c92eb9ff2e564da7efe3b5a2d44c2e2604f7903bb52f6",
+   "md5": "924dfd1be0f44fb09531eb105e153190"
+  },
+  "uploads/ZTE_Nubia_Z70_Ultra_NX733J.umi": {
+   "id": "e519c36391d30ecf",
+   "size": 764334,
+   "sha256": "e519c36391d30ecf6aea5f16b7056dd5733eba3852840f8e07ba3518f085aab2",
+   "md5": "be7a75462573b3651db717641afa21e3"
+  },
+  "uploads/ZTE_Nubia_Z70__736J.umi": {
+   "id": "e519c36391d30ecf",
+   "size": 764334,
+   "sha256": "e519c36391d30ecf6aea5f16b7056dd5733eba3852840f8e07ba3518f085aab2",
+   "md5": "be7a75462573b3651db717641afa21e3"
+  },
+  "uploads/ZTE_RED_MAGIC_NX789J_NMK9FU4U.umi": {
+   "id": "e519c36391d30ecf",
+   "size": 764334,
+   "sha256": "e519c36391d30ecf6aea5f16b7056dd5733eba3852840f8e07ba3518f085aab2",
+   "md5": "be7a75462573b3651db717641afa21e3"
+  },
+  "uploads/ZTE_S30_Pro_HD_RL09NPZS.umi": {
+   "id": "e6e148c6f8e39b5c",
+   "size": 283430,
+   "sha256": "e6e148c6f8e39b5cef44bcabdccabe1aece6779d107f596acb52de63889a4cdb",
+   "md5": "d9b0b4eb2ae5e6b518d0aab60e4cf839"
+  },
+  "uploads/ZTE_Tempo_X_CBAUAV7Q.umi": {
+   "id": "5b34a316585f08c9",
+   "size": 188774,
+   "sha256": "5b34a316585f08c9225467176e84ba4e5bca77bceccd28c552a97510ec7edd65",
+   "md5": "918842186ed0a22a89fd6d2d5e3a6b9d"
+  },
+  "uploads/ZTE_ZPAD_K90U_5UXXMQ0S.umi": {
+   "id": "b41757607440f81a",
+   "size": 195813,
+   "sha256": "b41757607440f81acf4ad4b7ebafc2f4f64cae5486e7d5279c0e439324171bd3",
+   "md5": "91acadbd2e2139295aca4351e8635faf"
+  },
+  "uploads/ZTE_nubia_RedMagic_7S_G4DLPZLH.umi": {
+   "id": "12f573f946e06a2a",
+   "size": 755082,
+   "sha256": "12f573f946e06a2ad928d0e19ef1f6dd23de64785bc88d00ff2376c53da2cc72",
+   "md5": "f3c9684d632a56b8ef225da488bc3e1d"
+  },
+  "uploads/ZTE_nubia_RedMagic_Mars_KPAXTBXZ.umi": {
+   "id": "4aa701a8be1cb2f3",
+   "size": 510039,
+   "sha256": "4aa701a8be1cb2f30c1fab1c91be14b1c47b4a28370df5e42cb378dbc1cad4e1",
+   "md5": "0649f62529c42e709032354e7a9c50f0"
+  },
+  "uploads/ZTE_nubia_Red_Magic_3_LB0NNHBP.umi": {
+   "id": "781f602e760c6950",
+   "size": 295294,
+   "sha256": "781f602e760c6950ab80e86811557791c0240bd810dad3c9bda7e6bde9098e9c",
+   "md5": "e0d605391c5771d8697f12b1a9aa0986"
+  },
+  "uploads/ZTE_nubia_Red_Magic_3s_GMEHWN8F.umi": {
+   "id": "994e134d6b0332e9",
+   "size": 296637,
+   "sha256": "994e134d6b0332e9c748e2692a6a5c6aa660ea12aa914d00515660a3b29aecc6",
+   "md5": "c8d33c352a1146e2b35e9ff73d557db2"
+  },
+  "uploads/ZTE_nubia_Red_Magic_5G_KLXAZPYY.umi": {
+   "id": "8cf52b76b1af44d9",
+   "size": 357852,
+   "sha256": "8cf52b76b1af44d9151febcc86ad31340c6b6b904358ab53a8bae77b3e9b645a",
+   "md5": "20297d7f551c7c70f21e59dae17a74e8"
+  },
+  "uploads/ZTE_nubia_Red_Magic_5S_XCQ9EEU7.umi": {
+   "id": "6d1dd10343867179",
+   "size": 357860,
+   "sha256": "6d1dd10343867179d5cf140791186f5e612e948b54c92f9bea6d157212bcad7f",
+   "md5": "7e045137a5892554c3a61f8904956e1e"
+  },
+  "uploads/ZTE_nubia_Red_Magic_6_DJTLG83V.umi": {
+   "id": "e931700a745a2328",
+   "size": 417989,
+   "sha256": "e931700a745a2328492d1280db01f564b996ca62e41776f8bc841af28853ef41",
+   "md5": "b45a9fad7a5021a9ba07122333a24ae0"
+  },
+  "uploads/ZTE_nubia_Red_Magic_6s_Pro_PJX9KR19.umi": {
+   "id": "9976a23624e30da5",
+   "size": 417989,
+   "sha256": "9976a23624e30da56fdf6a3a0f460ffd934767aea6bc6f8c60e60cb00f7a2e9f",
+   "md5": "6a999eb19e788da8d5711c4a169273a7"
+  },
+  "uploads/ZTE_nubia_Red_Magic_7S_Pro_W40HRLWU.umi": {
+   "id": "63326c4f622c9218",
+   "size": 755082,
+   "sha256": "63326c4f622c92187fb974f3d423f04a63ee16dce0306e581b62a985d58da5ba",
+   "md5": "7cdbeffc56f4bf4f2d3291342cc0dd3d"
+  },
+  "uploads/ZTE_nubia_Red_Magic_7_Pro_TUABJW6Z.umi": {
+   "id": "401c57259048a676",
+   "size": 760562,
+   "sha256": "401c57259048a6765eefc7bec358ab96afc576d39a1dc2d3c7b3823b0b6fa4f1",
+   "md5": "59e1664b5fa1ab3db20e4f77c71215dd"
+  },
+  "uploads/ZTE_nubia_Red_Magic_8_Pro_HRTVNG13.umi": {
+   "id": "1848b5020f234c1b",
+   "size": 816866,
+   "sha256": "1848b5020f234c1b3a1ccf1070e4e6ee6af9e97fa7b987e12c4856d443d55bb6",
+   "md5": "3fa1bee0952b6a6c7b32bb3ec5dc4642"
+  },
+  "uploads/ZTE_nubia_X_SHQ5CR3C.umi": {
+   "id": "25a8fe15235fb83b",
+   "size": 290369,
+   "sha256": "25a8fe15235fb83b6fb868beeaca8199d2ac9f8ec06deeb9eb5a2c81145e2c23",
+   "md5": "3fb69fb143d39a104bb967a41850936e"
+  },
+  "uploads/ZTE_nubia_Z17_DNLKNDBL.umi": {
+   "id": "6a8437280a5a895c",
+   "size": 235527,
+   "sha256": "6a8437280a5a895c8bd61c845747891202093ec4b39a5b75862c5be1b27c5f96",
+   "md5": "e5245ea7f448c2f7218b5dea8f559228"
+  },
+  "uploads/ZTE_nubia_Z40_Pro_CMBKVDJM.umi": {
+   "id": "780a71c9db26f9d6",
+   "size": 749069,
+   "sha256": "780a71c9db26f9d6294c07a2b23bee1fa87ee041af60f571f8b14005e94a7e43",
+   "md5": "7a89b8bef2aa2b4aebb5413fa65dee28"
+  },
+  "uploads/a92-23_3LAEU452.umi": {
+   "id": "38ee5acae456cd95",
+   "size": 286283,
+   "sha256": "38ee5acae456cd951719af3a9b2b875c409305e8c46596f51060425e81b8d3fc",
+   "md5": "cc9f27d3acef8632fbbe617603d6b347"
+  },
+  "uploads/f1w.umi": {
+   "id": "721e77e999932d84",
+   "size": 61283,
+   "sha256": "721e77e999932d84341cd77a4263f90b36657c9ce6af89959ce39983be900d41",
+   "md5": "b404d585f7c1c06278b00d9cb369169d"
+  },
+  "uploads/honor_50_NM3WT30S.umi": {
+   "id": "6020c1fa274c27f7",
+   "size": 403840,
+   "sha256": "6020c1fa274c27f7481db8129d149dd0b81973cf31ba9b2abea6fc54500e326f",
+   "md5": "f90a7c72669ea19557c6500a56ad7c70"
+  },
+  "uploads/honor_50_pro_8PEA8L4W.umi": {
+   "id": "2add595c75db6bfb",
+   "size": 403840,
+   "sha256": "2add595c75db6bfb4fc440e7f7928d0dd20380365851ab566ab7e89ee2cfe579",
+   "md5": "b428935931f8a54b8de8837e386ab075"
+  },
+  "uploads/iTel_S42_NKUDJCTF.umi": {
+   "id": "d52b87ecc565b021",
+   "size": 231777,
+   "sha256": "d52b87ecc565b021ac2d2d0644525ede5c4ed39a379b256f75adf7606a350a5f",
+   "md5": "59a2b439ceaf43d51b0ff5e36001150b"
+  },
+  "uploads/nex_2_G9DRCQUU.umi": {
+   "id": "ae4bc3d4c26bb9d8",
+   "size": 302965,
+   "sha256": "ae4bc3d4c26bb9d89e8a2b62ad3cdbf4fb88c18891cddab4a357459316a0cf0d",
+   "md5": "c25f54ff9316be9c6d5944d7ab653b9d"
+  },
+  "uploads/oppo_r7f.umi": {
+   "id": "c7fe964dbe5c1cc6",
+   "size": 61263,
+   "sha256": "c7fe964dbe5c1cc6d4fa4c0fb5cf5a6e470c11bc19493db5a0601e250543f0bf",
+   "md5": "420f60fac4ea5b46ce6870434eff3cdd"
+  },
+  "uploads/oppo_snap8gen2_1.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/oppo_snap8gen2_2.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/oppo_snap8gen2_3.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/oppo_snap8gen2_J0YAW7Z7.umi": {
+   "id": "fbf904fbcf11f990",
+   "size": 815492,
+   "sha256": "fbf904fbcf11f99094b9410f3fc29ecddb1062e0c4c8381f550a9358664e141c",
+   "md5": "cfc22fc39901c6769bccf1c81318ca25"
+  },
+  "uploads/pd2038CF.umi": {
+   "id": "f54d9c5da18465c5",
+   "size": 271672,
+   "sha256": "f54d9c5da18465c5adde72b962cec93d0a3217edd197fc97c106786b7e7cd0ac",
+   "md5": "c036939b25c594726b279817efc493c0"
+  },
+  "uploads/prog_ufs_firehose_ddr_778G.elf.umi": {
+   "id": "837dfda55bf2fc2f",
+   "size": 415143,
+   "sha256": "837dfda55bf2fc2ffca35df06c4dea455aad999e7e1993129ef9ef1d57dc1186",
+   "md5": "8c6bc4ac4d8d7bde671630f7bd586d72"
+  },
+  "uploads/prog_ufs_firehose_ddr_778G.elf_AFvITCt.umi": {
+   "id": "837dfda55bf2fc2f",
+   "size": 415143,
+   "sha256": "837dfda55bf2fc2ffca35df06c4dea455aad999e7e1993129ef9ef1d57dc1186",
+   "md5": "8c6bc4ac4d8d7bde671630f7bd586d72"
+  },
+  "uploads/prog_ufs_firehose_ddr_778G.elf_T0Tst3y.umi": {
+   "id": "837dfda55bf2fc2f",
+   "size": 415143,
+   "sha256": "837dfda55bf2fc2ffca35df06c4dea455aad999e7e1993129ef9ef1d57dc1186",
+   "md5": "8c6bc4ac4d8d7bde671630f7bd586d72"
+  },
+  "uploads/prog_ufs_firehose_ddr_778G.elf_VeRcLWq.umi": {
+   "id": "837dfda55bf2fc2f",
+   "size": 415143,
+   "sha256": "837dfda55bf2fc2ffca35df06c4dea455aad999e7e1993129ef9ef1d57dc1186",
+   "md5": "8c6bc4ac4d8d7bde671630f7bd586d72"
+  },
+  "uploads/prog_ufs_firehose_ddr_778G.elf_zPqmCVI.umi": {
+   "id": "837dfda55bf2fc2f",
+   "size": 415143,
+   "sha256": "837dfda55bf2fc2ffca35df06c4dea455aad999e7e1993129ef9ef1d57dc1186",
+   "md5": "8c6bc4ac4d8d7bde671630f7bd586d72"
+  },
+  "uploads/prog_ufs_firehose_ddr_778G.elf_zPqmCVI_eZ2Nt3U.umi": {
+   "id": "837dfda55bf2fc2f",
+   "size": 415143,
+   "sha256": "837dfda55bf2fc2ffca35df06c4dea455aad999e7e1993129ef9ef1d57dc1186",
+   "md5": "8c6bc4ac4d8d7bde671630f7bd586d72"
+  },
+  "uploads/r9splus.umi": {
+   "id": "544613ab67e2cac4",
+   "size": 218502,
+   "sha256": "544613ab67e2cac48671482aa2e32e2a0600547185e59a5d19d998a633713624",
+   "md5": "21455d1dcbbb4ddefca2cdf0f9db0c35"
+  },
+  "uploads/vivo_x9_pd1616.qcn": {
+   "id": "de72bdd02bbd296b",
+   "size": 644608,
+   "sha256": "de72bdd02bbd296b2ff8fbf74ce45fc0c5b48444facb968ff0ed97ade5df9aa2",
+   "md5": "7869685de107d5e86ba41a2cd8c8a65c"
+  },
+  "uploads/vivo_xplay6_47TMD4U0.umi": {
+   "id": "1fad2deba0c55269",
+   "size": 210639,
+   "sha256": "1fad2deba0c55269c8c126696f9a733a157accc61bdedf233b1b532708b88eb1",
+   "md5": "1eb8496940ae45c734ddf40295875b0f"
+  },
+  "uploads/vivo_y11_8FCDWSQT.umi": {
+   "id": "246d5393ad1215db",
+   "size": 223380,
+   "sha256": "246d5393ad1215dbc3d35442e94ce97d1750770662adf9a839206783c920e236",
+   "md5": "ea3180e0efd74bafcd8516cfcd336e3e"
+  },
+  "uploads/vsmart_active_1.umi": {
+   "id": "864afc0ab319d3e9",
+   "size": 265975,
+   "sha256": "864afc0ab319d3e9ff232d0b149cad96ddf4f7a6f2b80d87849682dbfd28efb6",
+   "md5": "0e663d1ba53fa7d5d0031f04f54f9611"
+  },
+  "uploads/vsmart_active_1_plus.umi": {
+   "id": "15711c9972581de6",
+   "size": 265975,
+   "sha256": "15711c9972581de6316955cf6f86631f5145a0e17817e48ae7017e7c30a9b73b",
+   "md5": "4bc1e9bc36af3fbe42cdef93944c6205"
+  },
+  "uploads/vsmart_joy_1_plus.umi": {
+   "id": "5e0afdefdf099199",
+   "size": 245697,
+   "sha256": "5e0afdefdf099199fe150105e6398890e5650eb7a72d33063ebac5f6eefc76fc",
+   "md5": "27a84f063986d2988033995faac1312d"
+  },
+  "uploads/x21s_NHLJTB0A.umi": {
+   "id": "d39c2be70a43aa53",
+   "size": 267971,
+   "sha256": "d39c2be70a43aa53057f7d53fbe3d4236bb6eaef157df9eca3422454ecd9ff2c",
+   "md5": "8cb8ad56055fe468298e3beae7f186cc"
+  },
+  "uploads/x27_Pro_UFS.umi": {
+   "id": "b58de02531c62946",
+   "size": 285051,
+   "sha256": "b58de02531c629461c0e104958e72f3ec7618b834e75a0d74c0db9df4d9dd069",
+   "md5": "c604976a0a50dd1b174e41c5e924c68d"
+  },
+  "uploads/x27_UFS.umi": {
+   "id": "b58de02531c62946",
+   "size": 285051,
+   "sha256": "b58de02531c629461c0e104958e72f3ec7618b834e75a0d74c0db9df4d9dd069",
+   "md5": "c604976a0a50dd1b174e41c5e924c68d"
+  },
+  "uploads/x7plus_YNJE1DAV.umi": {
+   "id": "cbd9700a587bc354",
+   "size": 212111,
+   "sha256": "cbd9700a587bc354bb24780fb13a0e40bace0cb31d7aeb7578512f6fa2511ceb",
+   "md5": "0dcb919eeac3e10ad035fe5d20da52d6"
+  },
+  "uploads/y51_VF9M7DDZ.umi": {
+   "id": "aaee338ae0113213",
+   "size": 57088,
+   "sha256": "aaee338ae0113213fdc2ff9e1345c1a7dcd717043c9b6935f28f129fdec544cb",
+   "md5": "7ff6fbba924d4fb0048030fcc3f51ae5"
+  },
+  "uploads/y89_FSQCPPAY.umi": {
+   "id": "ece7b69d70161993",
+   "size": 227906,
+   "sha256": "ece7b69d701619939198d21fbea2d36d0b43bd6fb14cfc4ca1ccb97ee25f48f1",
+   "md5": "2471fb80315475d7ef7adce6ed43ccde"
+  },
+  "uploads/z1i_XXEZGHL0.umi": {
+   "id": "ca34d87347ab7f90",
+   "size": 267986,
+   "sha256": "ca34d87347ab7f90abd0df0b8c17adbc9e1b4de7148515f6462cdc019a088e60",
+   "md5": "8037abd83f8b8fce160df4dfcb2a4251"
+  },
+  "uploads/zen8_6ZHNS35D.umi": {
+   "id": "5d5445c8e697f669",
+   "size": 387546,
+   "sha256": "5d5445c8e697f669d6a4e288f67e655d4bcd051f3e020af19f4c49414718daf4",
+   "md5": "79b8387e14ecff47041fe7b5772f2288"
   }
  },
- "total": 1925806554,
- "count": 998
+ "total": 2107084445,
+ "count": 1502
 }
